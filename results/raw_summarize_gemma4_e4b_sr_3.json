@@ -1,0 +1,522 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "outputs": [
+      "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice.",
+      "The Palestinian Authority officially joined the International Criminal Court (ICC) on Wednesday, formalizing its accession with a ceremony in The Hague, Netherlands. This move grants the ICC jurisdiction over alleged crimes in Palestinian territories, specifically those committed since June 13, 2014. Palestinian officials view this as a major step toward achieving justice and ending impunity.",
+      "The Palestinian Authority became the 123rd member of the International Criminal Court (ICC) on Wednesday, formally acceding by signing the Rome Statute. This accession grants the ICC jurisdiction over alleged crimes in Palestinian territories since June 13, 2014, a move opposed by Israel and the United States. Palestinian officials view this development as a significant step toward achieving justice and ending impunity.",
+      "The Palestinian Authority officially became the 123rd member of the ICC on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories since June 13, 2014. At the ceremony, Palestinian Foreign Minister Riad al-Malki framed the accession as moving toward justice, building on the ICC's earlier preliminary examination of the situation. This formal accession establishes Palestine as a State Party to the Rome Statute."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific date range for the alleged crimes accepted by the Palestinians, which is \"since June 13, 2014.\"\n2. Omitting the key detail that the accession was marked by a ceremony at The Hague, in the Netherlands.",
+      "Problems (be concrete, not generic):\n1. Missing the specific detail that the accession was marked by the signing of the ICC's founding Rome Statute.\n2. Omitting the mention of the opposition from Israel and the United States.",
+      "Problems (be concrete, not generic):\n1. Missing the specific name of the Palestinian official who spoke at the ceremony (Riad al-Malki).\n2. Omitting the detail that the ICC opened a preliminary examination *later* that month, which is a key procedural step mentioned in the article."
+    ],
+    "times": [
+      70.6,
+      15.83,
+      15.6,
+      17.58
+    ],
+    "output": "The Palestinian Authority officially became the 123rd member of the ICC on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories since June 13, 2014. At the ceremony, Palestinian Foreign Minister Riad al-Malki framed the accession as moving toward justice, building on the ICC's earlier preliminary examination of the situation. This formal accession establishes Palestine as a State Party to the Rome Statute.",
+    "time": 119.61
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "outputs": [
+      "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car and seemingly subjected to a misguided mercy killing. Despite suffering severe injuries like a dislocated jaw and sinus damage, the resilient dog was found by a kind resident who is now providing care. Due to the extensive medical procedures required, a fundraiser has been successfully launched to help cover Theia's ongoing treatment costs.",
+      "A stray dog named Theia in Washington State survived multiple traumatic events, including being hit by a car and allegedly attacked, resulting in injuries such as a dislocated jaw, leg injuries, and sinus damage. A resident named Sara Mellado found the emaciated dog and is currently providing care, coordinating efforts to cover the extensive medical procedures needed for her recovery. Mellado has launched a fundraiser to help meet the remaining costs of Theia's ongoing treatment.",
+      "A stray dog named Theia in Washington State survived multiple traumatic events, including being hit by a car, allegedly struck with a hammer, and being buried, sustaining injuries like a dislocated jaw, leg issues, and sinus damage. She was found near a farm in Moses Lake, Washington, where resident Sara Mellado took charge of her care. Mellado has since organized fundraising efforts to cover the extensive medical procedures needed for Theia's recovery.",
+      "A one-year-old white-and-black bully breed mix named Theia survived multiple traumatic incidents in Washington State, including being hit by a car, allegedly struck with a hammer, and buried, sustaining injuries such as a dislocated jaw, leg issues, and sinus damage. She was found near a farm in Moses Lake, Washington, and is now under the care of resident Sara Mellado. Mellado has organized fundraising efforts to cover the extensive medical procedures needed for the dog's recovery."
+    ],
+    "feedbacks": [
+      "1. Missing the specific details of the injuries sustained (e.g., failing to mention the leg injuries).\n2. Omitting the key information about who found the dog and who is currently caring for her (Sara Mellado).",
+      "1. Missing the specific details of the initial trauma: The summary omits the mention of the dog allegedly being \"whacked on the head with a hammer.\"\n2. Missing the location of the initial discovery: The summary fails to mention that the dog was found near a farm in Moses Lake, Washington.",
+      "1. Missing the specific detail that the dog is a white-and-black bully breed mix (or at least the breed description).\n2. Omitting the fact that the dog is only one year old."
+    ],
+    "times": [
+      9.12,
+      16.38,
+      17.39,
+      16.81
+    ],
+    "output": "A one-year-old white-and-black bully breed mix named Theia survived multiple traumatic incidents in Washington State, including being hit by a car, allegedly struck with a hammer, and buried, sustaining injuries such as a dislocated jaw, leg issues, and sinus damage. She was found near a farm in Moses Lake, Washington, and is now under the care of resident Sara Mellado. Mellado has organized fundraising efforts to cover the extensive medical procedures needed for the dog's recovery.",
+    "time": 59.7
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "outputs": [
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in discussions that could potentially ease international sanctions on Iran. While he has gained positive attention for his diplomatic efforts, the article reveals less-known details, including an exchange with a Pelosi relative regarding Holocaust denial. Zarif's career path has also involved him being nominated by a predecessor's successor.",
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in diplomatic discussions that could ease international sanctions on Iran. The article also details less-known aspects of his career, such as a 2013 tweet referencing Rosh Hashanah and an exchange with Christine Pelosi regarding Holocaust denial. Furthermore, Zarif was nominated to his post by Hassan Rouhami, the successor to former President Ahmadinejad.",
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was involved in diplomatic talks potentially leading to reduced sanctions on Iran. The article highlights lesser-known details, including a 2013 exchange where Zarif tweeted \"Happy Rosh Hashanah,\" prompting Christine Pelosi to mention Holocaust denial. Additionally, Zarif was nominated to his role by Hassan Rouhami, who succeeded former President Mahmoud Ahmadinejad.",
+      "Mohammad Javad Zarif, the Iranian foreign minister, was involved in diplomatic talks that could potentially reduce sanctions on Iran. The article details lesser-known facts, including a 2013 Twitter exchange where Zarif responded to Christine Pelosi's comment on Holocaust denial by referencing the departure of former President Mahmoud Ahmadinejad. Furthermore, Zarif was nominated to his post by Hassan Rouhani, who succeeded Ahmadinejad."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific date of the Rosh Hashanah tweet (it occurred in September 2013).\n2. Omitting the key detail that Zarif's initial nomination came from Ahmadinejad's successor, Hassan Rouhami (the summary only mentions \"a predecessor's successor\").",
+      "1. Missing the specific context of the 2013 tweet exchange: The summary mentions the exchange but omits the crucial detail that Christine Pelosi's tweet was prompted by Zarif tweeting \"Happy Rosh Hashanah.\"\n2. Incomplete description of Zarif's nomination: The summary states Zarif was nominated by Hassan Rouhami, but it fails to mention that Rouhami was the successor to Mahmoud Ahmadinejad, which is a key piece of context provided in the article.",
+      "1. Missing the detail that Zarif's tweet regarding Holocaust denial was a response to Christine Pelosi's tweet, and that Zarif's reply referenced the passing of Mahmoud Ahmadinejad.\n2. Omitting the context that Zarif's nomination to foreign minister came from Ahmadinejad's successor, Hassan Rouhani (the article spells it \"Rouhami\" in one instance and the summary uses \"Rouhami,\" but the article text itself is inconsistent/unclear on the full name/spelling, and the summary should reflect the full context of the succession)."
+    ],
+    "times": [
+      8.33,
+      17.61,
+      19.76,
+      21.39
+    ],
+    "output": "Mohammad Javad Zarif, the Iranian foreign minister, was involved in diplomatic talks that could potentially reduce sanctions on Iran. The article details lesser-known facts, including a 2013 Twitter exchange where Zarif responded to Christine Pelosi's comment on Holocaust denial by referencing the departure of former President Mahmoud Ahmadinejad. Furthermore, Zarif was nominated to his post by Hassan Rouhani, who succeeded Ahmadinejad.",
+    "time": 67.09
+  },
+  {
+    "id": "cnn_003",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "17 Americans were exposed to the Ebola virus while in Sierra Leone in March . Another person was diagnosed with the disease and taken to hospital in Maryland . National Institutes of Health says the patient is in fair condition after weeks of treatment .",
+    "outputs": [
+      "Five American clinicians who were monitored in Omaha, Nebraska, after being exposed to Ebola in West Africa have been released. These individuals, who are part of the aid group Partners in Health, were exposed in Sierra Leone but did not contract the virus. Additionally, the CDC anticipates releasing the last of 17 monitored patients by Thursday.",
+      "On Wednesday, five American clinicians monitored for three weeks in Omaha, Nebraska, following Ebola exposure in West Africa were released. These individuals, who are with Partners in Health, were exposed in Sierra Leone but did not contract the virus. The CDC anticipates releasing the final of 17 monitored patients by Thursday.",
+      "Five American clinicians from Partners in Health, who were exposed to Ebola in Sierra Leone in March, were released from monitoring in Omaha, Nebraska, on Wednesday. One of the five individuals, who had a heart-related issue Saturday, has been discharged but remains in the area. The CDC expects the last of 17 monitored patients to be released by Thursday.",
+      "Five American clinicians from Partners in Health, exposed to Ebola in Sierra Leone in March, have been released from monitoring in Omaha, Nebraska, with some having gone home and one remaining in the area. Separately, the CDC anticipates releasing the last of 17 monitored patients by Thursday. None of the five Americans developed the Ebola virus."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific date of the initial release announcement (Wednesday).\n2. Omitting the crucial detail that the five released individuals were monitored for three weeks.",
+      "Problems (be concrete, not generic):\n1. Missing the specific detail that one of the five released individuals had a heart-related issue on Saturday and has not left the area.\n2. Omitting the crucial context that the five individuals were exposed to Ebola in Sierra Leone in March.",
+      "Problems (be concrete, not generic):\n1. **Inaccurate scope of release:** The summary implies *all* five individuals were released on Wednesday, but the article specifies that only *some* of the five had gone home, and one remained in the area.\n2. **Misleading scope of monitoring:** The summary states the CDC expects the last of *17* monitored patients to be released by Thursday, but this number refers to a group of patients separate from the five Americans discussed in the first half of the summary."
+    ],
+    "times": [
+      7.53,
+      13.53,
+      15.48,
+      18.76
+    ],
+    "output": "Five American clinicians from Partners in Health, exposed to Ebola in Sierra Leone in March, have been released from monitoring in Omaha, Nebraska, with some having gone home and one remaining in the area. Separately, the CDC anticipates releasing the last of 17 monitored patients by Thursday. None of the five Americans developed the Ebola virus.",
+    "time": 55.3
+  },
+  {
+    "id": "cnn_004",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Student is no longer on Duke University campus and will face disciplinary review . School officials identified student during investigation and the person admitted to hanging the noose, Duke says . The noose, made of rope, was discovered on campus about 2 a.m.",
+    "outputs": [
+      "A Duke student admitted to hanging a noose from a tree near the student union, leading to a student conduct review. Following the discovery, students and faculty gathered to protest, with the university president addressing the crowd. This incident is noted as part of a pattern of recent racist events affecting college campuses.",
+      "A Duke student admitted to hanging a noose from a tree near the student union on early Wednesday, and the university stated the student will face a conduct review. Following the discovery, students and faculty marched and gathered to protest the incident, with the president addressing the crowd. This event is cited alongside other recent racist incidents affecting college campuses.",
+      "A Duke student admitted to hanging a noose from a tree near the student union on early Wednesday, an incident that was discovered at 2 a.m., and the university stated the student will face a conduct review. Following the discovery, hundreds gathered at a forum on the steps of Duke Chapel, where the president addressed the crowd. This event is cited alongside other recent racist incidents affecting college campuses.",
+      "A Duke student admitted to hanging a noose from a tree near the student union early Wednesday, an incident discovered the same morning, and the university stated the student will face a conduct review, though the identity was withheld due to federal privacy laws. Following the discovery, hundreds gathered at a forum at Duke Chapel, where the president addressed the crowd. This incident is noted amid several other recent racist events affecting college campuses."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific day the noose was placed: The summary omits the detail that the student admitted to placing the noose on \"early Wednesday.\"\n2. Missing the context of the gathering: The summary fails to mention the specific action taken by the students and faculty during the protest, such as \"marching\" or the specific message they were chanting.",
+      "Problems (be concrete, not generic):\n1. Missing the specific time of the noose discovery: The summary omits the detail that the noose was discovered at 2 a.m.\n2. Omitting the context of the gathering: The summary fails to mention that the gathering at Duke Chapel was a forum where the president addressed the crowd, rather than just a general protest.",
+      "Problems (be concrete, not generic):\n1. Missing the fact that the student's identity was not released due to federal privacy laws.\n2. Omitting the context that the noose was discovered *and* the student admitted to placing it on \"early Wednesday,\" which is distinct from the time of discovery (2 a.m.)."
+    ],
+    "times": [
+      7.94,
+      17.37,
+      18.46,
+      17.28
+    ],
+    "output": "A Duke student admitted to hanging a noose from a tree near the student union early Wednesday, an incident discovered the same morning, and the university stated the student will face a conduct review, though the identity was withheld due to federal privacy laws. Following the discovery, hundreds gathered at a forum at Duke Chapel, where the president addressed the crowd. This incident is noted amid several other recent racist events affecting college campuses.",
+    "time": 61.05
+  },
+  {
+    "id": "cnn_005",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "College-bound basketball star asks girl with Down syndrome to high school prom . Pictures of the two during the \"prom-posal\" have gone viral .",
+    "outputs": [
+      "Star basketball recruit Trey Moses proposed to Ellie Meredith, a high school freshman with Down syndrome, for prom, surprising onlookers. Moses's gesture, which included a Taylor Swift-themed proposal, was widely shared online. The couple's relationship is supported by the Best Buddies program at Eastern High School, which fosters friendships between students with and without developmental disabilities.",
+      "Star basketball recruit Trey Moses proposed to high school freshman Ellie Meredith, who has Down syndrome, in the gym during her P.E. class, despite originally planning to take his girlfriend. The proposal, themed around Taylor Swift, was widely shared online and highlights a supportive relationship, partly due to Eastern High School's Best Buddies program.",
+      "Star basketball recruit Trey Moses proposed to high school freshman Ellie Meredith, who has Down syndrome, in the gym during her P.E. class, despite originally planning to take his girlfriend. The proposal, which referenced Taylor Swift and was shared online, also followed securing approval from Ellie's parents. This event highlights a supportive relationship, which is further supported by Eastern High School's Best Buddies program.",
+      "Star basketball recruit Trey Moses proposed to high school freshman Ellie Meredith, who has Down syndrome, in the gym during her P.E. class, despite originally planning to take his girlfriend. The proposal, which referenced Taylor Swift, was shared online and was preceded by securing approval from Ellie's parents. This event showcases a supportive relationship, which is also supported by Eastern High School's Best Buddies program."
+    ],
+    "feedbacks": [
+      "Here are the two specific, actionable problems with the summary:\n\n1. **Missing the location of the proposal:** The summary fails to mention that the prom-posal took place in the gym during Ellie's P.E. class.\n2. **Omitting the reason for the switch:** The summary does not mention that Trey was originally planning to take his girlfriend to prom, which provides context for why he asked Ellie instead.",
+      "Here are the two specific, actionable problems with the summary:\n\n1. **Omission of the key reason for the change:** The summary fails to mention that Trey was originally planning to take his girlfriend to prom, which is the central conflict/reason for the unusual proposal.\n2. **Lack of specific context for the proposal's success:** The summary mentions the proposal was \"widely shared online\" but omits the crucial detail that Trey also secured the OK from Ellie's parents the night before.",
+      "1. Missing the specific detail about Trey's original plan: The summary omits the crucial detail that Trey was originally planning to take his girlfriend to prom.\n2. Missing the specific context of the proposal's timing: The summary fails to mention that the proposal happened *during* Ellie's P.E. class."
+    ],
+    "times": [
+      8.13,
+      17.37,
+      20.14,
+      18.55
+    ],
+    "output": "Star basketball recruit Trey Moses proposed to high school freshman Ellie Meredith, who has Down syndrome, in the gym during her P.E. class, despite originally planning to take his girlfriend. The proposal, which referenced Taylor Swift, was shared online and was preceded by securing approval from Ellie's parents. This event showcases a supportive relationship, which is also supported by Eastern High School's Best Buddies program.",
+    "time": 64.19
+  },
+  {
+    "id": "cnn_006",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death . Organization claims that governments around the world are using the threat of terrorism to advance executions . The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% .",
+    "outputs": [
+      "Amnesty International's report alleges that global governments are increasingly using the death penalty, often citing terrorism or threats to public safety, to justify executions. While the report notes a worldwide decrease in the number of executions in 2014, it also highlights instances like Pakistan and China where the death penalty has been employed in connection with security concerns. Overall, Amnesty suggests a positive long-term trend toward abolition despite these concerning practices.",
+      "Amnesty International's report alleges that governments worldwide are using the threat of terrorism to advance executions, citing instances in Pakistan and China. While the report details mixed findings, it notes a worldwide decrease in the number of executions in 2014. Despite these concerning practices, Amnesty observes a generally positive, long-term trend toward abolition in some countries.",
+      "Amnesty International's report, \"Death Sentences and Executions 2014,\" alleges that governments worldwide use the threat of terrorism to advance executions, citing examples from Pakistan and China. While the report notes a worldwide decrease in executions in 2014, Amnesty's figures exclude data from countries like China, Belarus, and Vietnam. Nevertheless, the organization observes a generally positive, long-term trend toward abolition globally.",
+      "Amnesty International's report alleges that governments globally use the threat of terrorism to advance executions, citing examples such as those from Pakistan and China. While the report notes a worldwide decrease of almost 22% in executions in 2014, these figures exclude data from countries like China, Belarus, and Vietnam. Despite these limitations, Amnesty observes a positive, long-term trend toward abolition globally."
+    ],
+    "feedbacks": [
+      "1. **Contradictory trend description:** The summary states governments are \"increasingly using the death penalty,\" which contradicts the article's focus on the overall *decrease* in executions worldwide.\n2. **Misrepresentation of Amnesty's conclusion:** The summary implies Amnesty's overall suggestion is a positive trend toward abolition, but it fails to capture the nuance that the report details *mixed findings* alongside the positive trend.",
+      "1. Missing the specific title of the report: The summary fails to mention the full title, \"Death Sentences and Executions 2014.\"\n2. Omitting key context regarding data limitations: The summary fails to mention that Amnesty's figures do not include statistics from China, Belarus, and Vietnam.",
+      "1. Missing the specific percentage decrease in executions: The summary mentions a \"worldwide decrease in executions in 2014\" but omits the specific figure of \"almost 22%.\"\n2. Inaccurate representation of the positive trend: The summary states the organization observes a \"generally positive, long-term trend toward abolition globally,\" but it fails to include the caveat that this positive trend is based on Amnesty's figures, which exclude data from major countries like China."
+    ],
+    "times": [
+      9.73,
+      17.86,
+      17.15,
+      19.18
+    ],
+    "output": "Amnesty International's report alleges that governments globally use the threat of terrorism to advance executions, citing examples such as those from Pakistan and China. While the report notes a worldwide decrease of almost 22% in executions in 2014, these figures exclude data from countries like China, Belarus, and Vietnam. Despite these limitations, Amnesty observes a positive, long-term trend toward abolition globally.",
+    "time": 63.92
+  },
+  {
+    "id": "cnn_007",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment . In a petition for a restraining order, Getty had written he had a serious medical condition. Police say this is not a criminal matter at this time .",
+    "outputs": [
+      "Andrew Getty, grandson of oil tycoon J. Paul Getty, has died of natural causes, according to the Los Angeles Police Department. Preliminary assessments indicate no foul play, although an autopsy will be conducted. The Getty family confirmed his passing and requested privacy following the announcement.",
+      "Andrew Getty, the 47-year-old grandson of J. Paul Getty, reportedly died of natural causes, with preliminary police assessments finding no evidence of foul play. While an autopsy is pending, investigators recovered medication from his home, though its use or connection to his medical history remains unclear. The Getty family confirmed his passing and requested privacy.",
+      "On Tuesday night, police reported that Andrew Getty, the 47-year-old grandson of J. Paul Getty, died of natural causes, with no foul play suspected. Although an autopsy is pending, investigators found medication at his home, and it is noted that Getty had recently filed for a restraining order. The Getty family confirmed his death and requested privacy.",
+      "A Los Angeles Police Department spokesman confirmed that Andrew Getty, the 47-year-old grandson of J. Paul Getty, died of natural causes with no foul play suspected. Investigators recovered medication from his home, though officials are still determining if Getty was taking it. The Getty family has confirmed his death and requested privacy."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific age of Andrew Getty (47).\n2. Omitting the detail that the medication found at his home is currently unknown regarding its use or relation to his medical history.",
+      "1. Missing the specific day the information was reported: The summary fails to mention that the information was reported on \"Tuesday night.\"\n2. Omitting the detail about the restraining order: The summary omits the detail that Andrew Getty had recently filed for a restraining order, which is a notable recent activity mentioned in the article.",
+      "Problems (be concrete, not generic):\n1. Missing the specific detail that the medication found was recovered from his home (the summary only says \"found medication at his home\").\n2. Omitting the key context that the police source was a Los Angeles Police Department spokesman (the summary only says \"police reported\")."
+    ],
+    "times": [
+      6.57,
+      14.56,
+      16.06,
+      15.35
+    ],
+    "output": "A Los Angeles Police Department spokesman confirmed that Andrew Getty, the 47-year-old grandson of J. Paul Getty, died of natural causes with no foul play suspected. Investigators recovered medication from his home, though officials are still determining if Getty was taking it. The Getty family has confirmed his death and requested privacy.",
+    "time": 52.54
+  },
+  {
+    "id": "cnn_008",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Once a super typhoon, Maysak is now a tropical storm with 70 mph winds . It could still cause flooding, landslides and other problems in the Philippines .",
+    "outputs": [
+      "Filipinos are warned to prepare for potential flash floods and landslides due to the approach of Tropical Storm Maysak, which is currently tracking west in the Pacific Ocean. Although it has weakened from super typhoon status, the storm is expected to make landfall on the southeastern coast of Isabela province on Sunday morning. Authorities have implemented safety measures, including barring outdoor activities and conducting preemptive evacuations, ahead of the storm's arrival.",
+      "Filipinos are warned about potential flash floods and landslides due to Tropical Storm Maysak, which the Philippine weather service calls Chedeng. As of Saturday evening, the storm is tracking west and is expected to make landfall on the southeastern coast of Isabela province on Sunday morning. Authorities have taken precautionary measures, including restricting outdoor activities and conducting evacuations.",
+      "Filipinos are warned about potential flash floods and landslides from Tropical Storm Maysak (Chedeng), which reported steady winds over 70 mph with gusts up to 90 mph as of Saturday. The storm is tracking west and is forecast to make landfall on the southeastern coast of Isabela province Sunday morning. Authorities have issued precautionary measures, including restricting outdoor activities and advising tourists to return to their homes, as stated by disaster official Gabriel Llave.",
+      "Filipinos are warned about potential flash floods and landslides from Tropical Storm Maysak (Chedeng), which had steady winds over 70 mph with gusts up to 90 mph as of Saturday afternoon. The storm is forecast to make landfall on the southeastern coast of Isabela province Sunday morning, prompting local officials to issue strong warnings, such as Isabela Governor Dry advising residents to prepare for an unusual impact. Authorities have implemented precautionary measures, including restricting outdoor activities and advising tourists to leave coastal areas."
+    ],
+    "feedbacks": [
+      "1. Missing the specific local name given by the Philippine national weather service (Chedeng).\n2. Omitting the specific time/date context for the storm's current status/reporting (e.g., \"as of 5 p.m. (5 a.m. ET) Saturday\").",
+      "Problems (be concrete, not generic):\n1. Missing the specific wind details: The summary omits the reported wind speed and gusts (e.g., \"steady winds of more than 70 mph... and gusts up to 90 mph\") mentioned in the article for Saturday.\n2. Missing the specific source for the warning/advice: The summary fails to mention the specific official who gave the warning regarding tourists being turned away (Gabriel Llave).",
+      "1. Missing the specific date for the wind report: The summary mentions the wind speeds \"as of Saturday\" but omits the specific date mentioned in the article for this reading (which is implied to be the day the article was written, but the summary should be more precise if possible, or at least acknowledge the time context provided).\n2. Missing the specific details of the warning/advice given by Isabela Gov. Faustino Dry III: The summary only mentions general precautionary measures, omitting the specific, strong warning given by Isabela Gov. Faustino Dry III that residents should act as if it will be \"no ordinary typhoon.\""
+    ],
+    "times": [
+      9.0,
+      15.61,
+      19.46,
+      22.66
+    ],
+    "output": "Filipinos are warned about potential flash floods and landslides from Tropical Storm Maysak (Chedeng), which had steady winds over 70 mph with gusts up to 90 mph as of Saturday afternoon. The storm is forecast to make landfall on the southeastern coast of Isabela province Sunday morning, prompting local officials to issue strong warnings, such as Isabela Governor Dry advising residents to prepare for an unusual impact. Authorities have implemented precautionary measures, including restricting outdoor activities and advising tourists to leave coastal areas.",
+    "time": 66.73
+  },
+  {
+    "id": "cnn_009",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Bob Barker returned to host \"The Price Is Right\" on Wednesday . Barker, 91, had retired as host in 2007 .",
+    "outputs": [
+      "Bob Barker returned to host \"The Price Is Right\" for the first time in eight years on April 1st. The 91-year-old legend handled the initial game, \"Lucky Seven,\" before passing the hosting duties back to Drew Carey. His return marked a notable moment as he resumed hosting after stepping down from the show in 2007.",
+      "On April 1st, Bob Barker returned to \"The Price Is Right,\" hosting the initial game, \"Lucky Seven,\" for the first time in eight years. The 91-year-old handled the opening proceedings before passing the hosting duties back to Drew Carey.",
+      "On April 1st, Bob Barker returned to \"The Price Is Right\" to host the initial game, \"Lucky Seven,\" marking his first appearance in eight years. At 91, Barker managed the opening proceedings before handing hosting duties back to Drew Carey.",
+      "Bob Barker returned to host the opening game, \"Lucky Seven,\" on \"The Price Is Right\" for the first time in eight years. At 91, Barker managed the initial price-guessing segment before handing the remaining hosting duties back to Drew Carey."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. **Misrepresenting the role:** The summary states Bob Barker returned to *host* the show, but the article specifies he only handled the *first price-guessing game* before passing duties to Drew Carey.\n2. **Overstating the return:** The summary implies his return was a full resumption of hosting duties, whereas the article clarifies he only handled the initial game before Carey finished up.",
+      "Problems (be concrete, not generic):\n1. **Misrepresenting the scope of the return:** The summary implies Barker returned to *hosting* the entire show, when the article specifies he only hosted the \"initial game\" before passing duties to Carey.\n2. **Overstating the nature of the return:** The summary states he returned \"for the first time in eight years,\" which is accurate, but it fails to mention the context that this return was an *exception* to the usual host (Drew Carey).",
+      "Problems (be concrete, not generic):\n1. **Misleading implication of \"first appearance\":** The summary implies that Barker's return was his *first* appearance in eight years, but the article states he returned to \"doing what he does best,\" suggesting a return to a *role* or *activity* rather than a complete absence from the show itself.\n2. **Oversimplification of hosting duties:** The summary states he \"hand[ed] hosting duties back to Drew Carey,\" which incorrectly suggests he was the primary host for the entire event; the article specifies he handled the \"first price-guessing game\" before turning duties over."
+    ],
+    "times": [
+      7.69,
+      15.55,
+      16.52,
+      18.45
+    ],
+    "output": "Bob Barker returned to host the opening game, \"Lucky Seven,\" on \"The Price Is Right\" for the first time in eight years. At 91, Barker managed the initial price-guessing segment before handing the remaining hosting duties back to Drew Carey.",
+    "time": 58.21
+  },
+  {
+    "id": "cnn_010",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul . He's been charged with terror offenses allegedly committed since the start of November .",
+    "outputs": [
+      "A 19-year-old UK national, Yahya Rashid, was charged with terror offenses after being arrested at Luton airport upon his return from Turkey. He faces charges related to preparing for and intending to assist in acts of terrorism during the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday.",
+      "Yahya Rashid, a 19-year-old UK national, was detained at Luton airport on Tuesday upon arriving from Istanbul. He has been charged with terror offenses, specifically for preparing for and intending to assist in acts of terrorism between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday.",
+      "Following his arrest upon returning to Britain from Turkey, 19-year-old Yahya Rashid was charged with terror offenses. Specifically, he faces charges for preparing for acts of terrorism and intending to assist others in such acts, relating to the period between November 1 and March 31. Rashid is set to appear in Westminster Magistrates' Court on Wednesday.",
+      "Yahya Rashid, a 19-year-old UK national, was arrested at Luton airport on Tuesday upon arriving from Istanbul. He has been charged with terror offenses, specifically preparing for and intending to assist in acts of terrorism, relating to the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Incorrect departure location: The summary states he returned from Turkey, but the article specifies he arrived from Istanbul.\n2. Missing detail about the arrest date: The summary omits that he was detained on Tuesday, which is a specific detail provided in the article.",
+      "Problems (be concrete, not generic):\n1. Missing the specific nature of the charges: The summary generalizes the charges as \"terror offenses\" when the article specifies two distinct charges: \"engaging in conduct in preparation of acts of terrorism, and with engaging in conduct with the intention of assisting others to commit acts of terrorism.\"\n2. Missing the source of the initial arrest/detention information: The summary omits the detail that the police stated he was charged *after* he was arrested upon returning from Turkey, which is a key piece of context regarding the charge timing.",
+      "Problems (be concrete, not generic):\n1. Incorrect departure location: The summary states he returned from Turkey, but the article specifies he was detained after arriving from Istanbul.\n2. Missing detail regarding the initial arrest date: The summary omits that the arrest occurred on Tuesday, while the article specifies this date."
+    ],
+    "times": [
+      7.54,
+      14.71,
+      18.71,
+      15.07
+    ],
+    "output": "Yahya Rashid, a 19-year-old UK national, was arrested at Luton airport on Tuesday upon arriving from Istanbul. He has been charged with terror offenses, specifically preparing for and intending to assist in acts of terrorism, relating to the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday.",
+    "time": 56.03
+  },
+  {
+    "id": "cnn_011",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "\"Furious 7\" pays tribute to star Paul Walker, who died during filming . Vin Diesel: \"This movie is more than a movie\" \"Furious 7\" opens Friday .",
+    "outputs": [
+      "Paul Walker's death in a car crash in 2013 occurred shortly before the release of \"Furious 7,\" a film heavily associated with his career. Due to his passing, the movie's storyline was rewritten using special effects and his brothers as body doubles to conclude his character's journey. The film's premiere featured emotional tributes, emphasizing the lasting impact of Walker's memory on his co-stars and fans.",
+      "Paul Walker died in a car crash in November 2013, shortly before the release of \"Furious 7.\" To conclude his character's story, the film was rewritten using special effects and his brothers as body doubles. The movie's premiere featured emotional tributes, highlighted by Vin Diesel's tearful speech acknowledging the lasting impact of Walker's memory.",
+      "Paul Walker died in a car crash in November 2013 while on break from filming \"Furious 7,\" an accident that also killed the car's driver, Roger Rodas. To conclude his character's story, the film was rewritten using special effects and his brothers as body doubles. The movie's premiere featured emotional tributes, highlighted by Vin Diesel's tearful speech acknowledging the lasting impact of Walker's memory.",
+      "Paul Walker died in a November 2013 car crash while on break from filming *Furious 7*, which also claimed the life of the driver, Roger Rodas. To conclude his character's story, the film used special effects and his brothers as body doubles, incorporating a touching tribute to his character's \"retirement.\" The movie's premiere featured emotional tributes, including Vin Diesel's speech, and highlighted Walker's personal generosity, such as secretly paying for an engagement ring."
+    ],
+    "feedbacks": [
+      "1. Missing the specific date of the death: The summary only mentions \"2013\" when the article specifies \"November 2013.\"\n2. Omitting key details about the tribute: The summary generalizes the tribute, omitting the specific mention of Vin Diesel's tearful speech at the premiere.",
+      "Problems (be concrete, not generic):\n1. Missing the detail that Paul Walker was on break from filming \"Furious 7\" at the time of the accident.\n2. Omitting the mention of the car's driver, Roger Rodas, who also died in the crash.",
+      "1. Missing the specific detail about the nature of the tribute: The summary omits the detail that the filmmakers figured out a \"touching way to pay tribute to Walker while 'retiring' his character.\"\n2. Missing the specific detail about the ring purchase: The summary omits the anecdote about Paul Walker secretly paying for the engagement ring for Kyle Upham."
+    ],
+    "times": [
+      9.12,
+      16.32,
+      16.65,
+      18.5
+    ],
+    "output": "Paul Walker died in a November 2013 car crash while on break from filming *Furious 7*, which also claimed the life of the driver, Roger Rodas. To conclude his character's story, the film used special effects and his brothers as body doubles, incorporating a touching tribute to his character's \"retirement.\" The movie's premiere featured emotional tributes, including Vin Diesel's speech, and highlighted Walker's personal generosity, such as secretly paying for an engagement ring.",
+    "time": 60.59
+  },
+  {
+    "id": "cnn_012",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Museum: Anne Frank died earlier than previously believed . Researchers re-examined archives and testimonies of survivors . Anne and older sister Margot Frank are believed to have died in February 1945 .",
+    "outputs": [
+      "New research analyzing archives and survivor testimonies suggests that Anne and Margot Frank died at Bergen-Belsen at least a month earlier than previously believed. This contradicts the earlier determination of their death date, as the camp was liberated in March 1945. The findings indicate the sisters suffered terrible conditions at the camp following their arrest and transfer from Auschwitz.",
+      "New research, analyzing archives from the Red Cross, International Training Service, and the Bergen-Belsen Memorial, indicates that Anne and Margot Frank likely died at least a month earlier than the previously accepted date of March 31, 1945. This revised conclusion contradicts the earlier finding established by Dutch authorities. The study is based on re-examining historical records and survivor testimonies regarding the sisters' time at the camp.",
+      "New research released by the Anne Frank House, which re-examined archives and survivor testimonies, indicates that Anne and Margot Frank died at least a month earlier than the previously accepted date of March 31, 1945. This revised finding contradicts the date of death previously determined by Dutch authorities. The investigation focused on the sisters' time at the Bergen-Belsen concentration camp.",
+      "New research from the Anne Frank House, which re-examined Red Cross, International Training Service, and Bergen-Belsen Memorial archives alongside survivor testimonies, indicates that Anne and Margot Frank died at least a month earlier than the previously accepted date of March 31, 1945. This revised finding directly contradicts the date of death previously determined by Dutch authorities regarding their time at the Bergen-Belsen concentration camp."
+    ],
+    "feedbacks": [
+      "1. **Incorrect location of the earlier death date:** The summary states the contradiction relates to the camp being liberated in March 1945, but the article specifies the *previously determined* date of death was March 31, 1945, not the liberation date.\n2. **Missing key detail regarding the new evidence:** The summary fails to mention that the new research re-examined specific sources, namely \"archives of the Red Cross, the International Training Service and the Bergen-Belsen Memorial.\"",
+      "1. Missing the specific location of the new research findings: The summary fails to mention that the new research was released by the Anne Frank House.\n2. Missing the specific nature of the contradiction: The summary states the new conclusion contradicts the earlier finding, but it omits the key detail that the previous date was the supposed date of death, not just a general finding.",
+      "Problems (be concrete, not generic):\n1. Missing the specific nature of the contradiction: The summary fails to mention *what* the previous date was (the previously accepted date of March 31, 1945) in relation to the new finding, only that it contradicts the Dutch authorities.\n2. Missing key context regarding the research scope: The summary omits the specific types of archives examined (Red Cross, International Training Service, and Bergen-Belsen Memorial) which are mentioned as key parts of the new research."
+    ],
+    "times": [
+      7.72,
+      19.76,
+      16.94,
+      19.88
+    ],
+    "output": "New research from the Anne Frank House, which re-examined Red Cross, International Training Service, and Bergen-Belsen Memorial archives alongside survivor testimonies, indicates that Anne and Margot Frank died at least a month earlier than the previously accepted date of March 31, 1945. This revised finding directly contradicts the date of death previously determined by Dutch authorities regarding their time at the Bergen-Belsen concentration camp.",
+    "time": 64.3
+  },
+  {
+    "id": "cnn_013",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 . Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet \"won\" in America .",
+    "outputs": [
+      "Mike Pence is facing criticism for signing a religious freedom law that could lead to discrimination against gay and lesbian people. This action is interpreted as Pence trying to secure support from a powerful, conservative wing of the Republican party for a potential 2016 presidential run. Ultimately, this controversy is forcing the entire Republican party platform to shift further to the right.",
+      "Last week, Mike Pence drew criticism for signing a religious freedom law that could open the door to discrimination against gay and lesbian people. This action is interpreted as Pence solidifying support from a powerful, conservative wing of the Republican party for a potential 2016 presidential run, a move even defended by figures like Jeb Bush. Furthermore, this debate is influencing other states, with Arkansas's Governor and likely 14 others considering similar proposals.",
+      "Mike Pence faced criticism for signing a religious freedom law that could lead to discrimination against gay and lesbian people, an action taken despite opposition from Indiana's Chamber of Commerce and the state's Republican mayor. The article suggests this move was to secure the support of the Republican party's conservative wing for a potential 2016 presidential bid, and this ensuing debate is expected to pull the entire Republican field further to the right.",
+      "Mike Pence drew significant criticism last week for signing a religious freedom law that could enable discrimination against gay and lesbian people, despite objections from Indiana's Chamber of Commerce and the state's Republican mayor. The article suggests this move was intended to solidify his standing with the conservative wing of the Republican party for a potential 2016 presidential run, a move that was immediately defended by Jeb Bush. This controversy is expected to pull the entire Republican field further to the right."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific context that the law signing occurred *last week* (as stated in the article).\n2. Omitting the mention of the specific political figures who defended Pence (Jeb Bush) or the other states considering similar proposals (Arkansas Gov. Asa Hutchinson and 14 other states).",
+      "Problems (be concrete, not generic):\n1. Missing the specific context that the law signing was done despite ignoring pleas from Indiana's Chamber of Commerce and the Republican mayor of his state capital.\n2. Omitting the key detail that the article suggests the debate is dragging the entire Republican field farther to the right than the party had been.",
+      "Problems (be concrete, not generic):\n1. Missing the specific detail that the law was signed \"last week\" (temporal context).\n2. Omitting the mention of Jeb Bush's reaction (specific political consequence/detail)."
+    ],
+    "times": [
+      7.76,
+      17.42,
+      17.29,
+      16.23
+    ],
+    "output": "Mike Pence drew significant criticism last week for signing a religious freedom law that could enable discrimination against gay and lesbian people, despite objections from Indiana's Chamber of Commerce and the state's Republican mayor. The article suggests this move was intended to solidify his standing with the conservative wing of the Republican party for a potential 2016 presidential run, a move that was immediately defended by Jeb Bush. This controversy is expected to pull the entire Republican field further to the right.",
+    "time": 58.7
+  },
+  {
+    "id": "cnn_014",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Singing the national anthem is a risky proposition . Whitney Houston nailed it; Roseanne Barr destroyed it .",
+    "outputs": [
+      "Performing the American national anthem can lead to public acclaim or significant criticism, as evidenced by various celebrities. The article cites examples ranging from Whitney Houston's celebrated performance to Roseanne Barr's booed rendition and Jimi Hendrix's controversial take. These instances highlight that the reception of a performance is highly variable and subject to public opinion.",
+      "Performing the national anthem can result in either acclaim or criticism, as demonstrated by various celebrities. Examples include Vince Neil's rendition at a Las Vegas Outlaws Arena Football League game, Whitney Houston's acclaimed performance, and Roseanne Barr's rendition, which President George H. W. Bush called \"disgraceful.\" These instances show that the reception of the performance is highly variable and subject to public and political opinion.",
+      "Performing the national anthem can lead to varied public reactions, ranging from acclaim to criticism, as shown by several celebrities. Examples include Jimi Hendrix's controversial 1969 rendition, Whitney Houston's celebrated performance, and Roseanne Barr's rendition criticized by President Bush. The spectrum also includes Michael Bolton's performance, which drew attention for its lyrics.",
+      "Performing the national anthem can elicit varied public reactions, ranging from acclaim to criticism, as demonstrated by various celebrities. These examples range from Jimi Hendrix's 1969 rendition and Whitney Houston's celebrated performance to Vince Neil's recent attempt at the Las Vegas Outlaws Arena Football League game. The critique also covers Roseanne Barr's performance, which President Bush called \"disgraceful,\" and Michael Bolton's version, which was noted for its lyrics."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific context for the Vince Neil mention (the article mentions the Las Vegas Outlaws Arena Football League game, which is omitted).\n2. Omitting the specific criticism leveled at Roseanne Barr (the summary only mentions \"booed rendition\" and omits the detail that President George H. W. Bush called it \"disgraceful\").",
+      "Problems (be concrete, not generic):\n1. Missing the specific year for Jimi Hendrix's controversial performance (should include 1969).\n2. Omitting the mention of Michael Bolton's performance and the associated critique regarding the lyrics/words.",
+      "Problems (be concrete, not generic):\n1. Missing the specific context/event for Vince Neil's performance (the article mentions the Las Vegas Outlaws Arena Football League game).\n2. Incorrectly summarizing the issue with Michael Bolton's performance; the summary only states it \"drew attention for its lyrics,\" omitting the specific critique mentioned in the article (\"Can anyone say crib notes?\")."
+    ],
+    "times": [
+      7.44,
+      17.69,
+      15.12,
+      18.38
+    ],
+    "output": "Performing the national anthem can elicit varied public reactions, ranging from acclaim to criticism, as demonstrated by various celebrities. These examples range from Jimi Hendrix's 1969 rendition and Whitney Houston's celebrated performance to Vince Neil's recent attempt at the Las Vegas Outlaws Arena Football League game. The critique also covers Roseanne Barr's performance, which President Bush called \"disgraceful,\" and Michael Bolton's version, which was noted for its lyrics.",
+    "time": 58.63
+  },
+  {
+    "id": "cnn_015",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition . Walmart and other high-profile businesses are showing their support for gay and lesbian rights . Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies .",
+    "outputs": [
+      "Major corporations, including Walmart, are increasingly criticizing religious freedom laws in several states, particularly over concerns about discrimination against gay and lesbian customers. This trend suggests that large retailers may be acting as bellwethers for shifting public opinion on divisive social issues. Some Republicans are advising the party to follow this lead by focusing on middle-class issues, such as raising the minimum wage and prohibiting discrimination.",
+      "Walmart's criticism of a religious freedom law in Arkansas, which followed the company's announcement of raising pay for 500,000 workers, suggests large retailers are signaling shifts in public opinion. Former Minnesota Gov. Tim Pawlenty highlighted this trend, urging Republicans to align with such stances by focusing on middle-class issues like raising the minimum wage and prohibiting discrimination.",
+      "Walmart opposed a religious freedom law in Arkansas, following its announcement of wage increases for 500,000 workers. This action led former Gov. Tim Pawlenty to urge Republicans to shift focus toward middle-class issues, such as raising the minimum wage and prohibiting discrimination. Ultimately, Arkansas Governor Asa Hutchinson announced he would not sign the controversial legislation.",
+      "Walmart opposed a religious freedom law in Arkansas because critics warned it could lead to discrimination against gay and lesbian customers. Following this stance, former Gov. Tim Pawlenty urged Republicans to focus on middle-class issues like wage increases and anti-discrimination protections. Ultimately, Arkansas Governor Asa Hutchinson announced he would not sign the legislation unless specific conditions were met."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific context of Walmart's criticism: The summary fails to mention that Walmart's criticism of the Arkansas law came *after* the company announced it would boost pay for 500,000 workers.\n2. Omitting the key figure advising the GOP: The summary fails to name former Minnesota Gov. Tim Pawlenty, who was quoted urging the GOP to follow Walmart's lead.",
+      "Problems (be concrete, not generic):\n1. Missing the specific context of the law being opposed (it was a religious freedom law).\n2. Omitting the key detail that the governor's final action on the bill was not mentioned (the summary ends before stating the governor's decision).",
+      "Problems (be concrete, not generic):\n1. Missing the specific reason for the law's opposition: The summary omits that the opposition was specifically related to the law potentially leading to discrimination against gay and lesbian customers.\n2. Incomplete detail on the governor's decision: The summary states the governor \"announced he would not sign the controversial legislation,\" but fails to mention the condition attached to his decision (i.e., \"unless its...\")."
+    ],
+    "times": [
+      8.22,
+      18.37,
+      15.57,
+      17.62
+    ],
+    "output": "Walmart opposed a religious freedom law in Arkansas because critics warned it could lead to discrimination against gay and lesbian customers. Following this stance, former Gov. Tim Pawlenty urged Republicans to focus on middle-class issues like wage increases and anti-discrimination protections. Ultimately, Arkansas Governor Asa Hutchinson announced he would not sign the legislation unless specific conditions were met.",
+    "time": 59.78
+  },
+  {
+    "id": "cnn_016",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading . Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history .",
+    "outputs": [
+      "In 2014, authorities in China's Xinjiang region held a public sentencing of 55 individuals, including three sentenced to death, as part of a \"Strike Hard\" campaign against alleged unrest. This incident highlights a global trend where governments are increasingly using the death penalty in reactions to crime and terrorism. Amnesty International's review notes that several countries have resumed or expanded capital punishment, despite widespread international condemnation of summary executions.",
+      "On May 28, 2014, authorities in China's Xinjiang region publicly sentenced 55 people, including three to death, as part of the \"Strike Hard\" campaign. This event reflects a global trend where governments are increasingly utilizing the death penalty in response to unrest or terrorism. Amnesty International's review notes this trend, citing examples such as Pakistan resuming executions, Iran and Iraq executing people for terrorism, and Jordan ending its moratorium.",
+      "During an open-air trial in China's Xinjiang region on May 28, 2014, 55 people were found guilty of offenses linked to violent attacks, with three sentenced to death as part of the \"Strike Hard\" campaign. This incident exemplifies a global pattern where governments are using the death penalty in what the article describes as a misguided attempt to combat crime and terrorism. Amnesty International's review highlights this trend with examples including Pakistan resuming executions and other nations expanding capital crimes.",
+      "During an open-air trial in China's Xinjiang region on May 28, 2014, 55 people were convicted and three sentenced to death as part of the \"Strike Hard\" campaign against unrest. This incident illustrates a global trend where governments are using the death penalty to combat issues like terrorism, a pattern noted in Amnesty International's review. The review details this trend with examples including Pakistan resuming executions and Jordan ending its moratorium."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific date of the Xinjiang event: the summary only states \"In 2014\" when the article specifies \"May 28, 2014.\"\n2. Omitting the context of other countries mentioned: the summary fails to mention the specific examples of other countries resuming or expanding capital punishment (e.g., Pakistan, Iran, Iraq, Jordan).",
+      "Problems (be concrete, not generic):\n1. Missing the specific context of the initial event: The summary fails to mention that the 55 people were sentenced following an \"open air trial\" and that the charges were linked to \"violent attacks.\"\n2. Omitting the scope of the global trend: The summary does not mention that the trend is characterized by governments using the death penalty in a \"misguided, and often cynical, attempt to tackle crime and terrorism.\"",
+      "1. Missing the specific context of the \"Strike Hard\" campaign (it was against unrest in Xinjiang).\n2. Omitting the mention of Jordan ending its moratorium on executions."
+    ],
+    "times": [
+      8.98,
+      18.91,
+      20.11,
+      15.23
+    ],
+    "output": "During an open-air trial in China's Xinjiang region on May 28, 2014, 55 people were convicted and three sentenced to death as part of the \"Strike Hard\" campaign against unrest. This incident illustrates a global trend where governments are using the death penalty to combat issues like terrorism, a pattern noted in Amnesty International's review. The review details this trend with examples including Pakistan resuming executions and Jordan ending its moratorium.",
+    "time": 63.23
+  },
+  {
+    "id": "cnn_017",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Marseille prosecutor says \"so far no videos were used in the crash investigation\" despite media reports . Journalists at Bild and Paris Match are \"very confident\" the video clip is real, an editor says . Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says .",
+    "outputs": [
+      "The French prosecutor investigating the Germanwings Flight 9525 crash stated that no onboard video footage has been used in the investigation and urged anyone with such video to provide it to authorities. These comments contradict reports from *Bild* and *Paris Match* magazines, which claimed to have viewed a cell phone video from the crash site. Officials from the investigation agency and a Gendarmerie spokesman dismissed these reports as \"completely wrong\" and \"unwarranted.\"",
+      "Marseille prosecutor Brice Robin stated that no onboard video footage has been used in the Germanwings Flight 9525 investigation and urged the public to submit any such video to authorities. This contradicts reports from *Bild* and *Paris Match*, which claimed to view a cell phone video allegedly containing sounds like \"cries of 'My God'\" and \"metallic banging.\" Furthermore, both the BEA and a Gendarmerie spokesman dismissed these media reports as unfounded.",
+      "Marseille prosecutor Brice Robin stated that no onboard video footage has been used in the Germanwings Flight 9525 investigation and urged the public to submit any such video to authorities. This contradicts *Bild* and *Paris Match* reports, which claimed to view a cell phone video recovered from the wreckage site showing harrowing sounds. Additionally, a Gendarmerie spokesman dismissed these media reports as \"completely wrong\" and \"unwarranted.\"",
+      "Marseille prosecutor Brice Robin stated that \"so far no videos were used\" in the Germanwings Flight 9525 investigation and instructed that anyone possessing such footage must immediately give it to investigators. This contradicts reports from *Bild* and *Paris Match* claiming to have viewed a recovered cell phone video of the crash. Furthermore, a Gendarmerie spokesman dismissed these media reports as \"completely wrong\" and \"unwarranted.\""
+    ],
+    "feedbacks": [
+      "1. Missing the specific name of the prosecutor who made the statement (should be Brice Robin).\n2. Missing the specific details provided by *Paris Match* regarding the sounds heard in the supposed video (e.g., \"cries of 'My God'\" or \"metallic banging\").",
+      "1. Missing the specific detail that the *Bild* and *Paris Match* reports claimed the video was recovered from a phone *at the wreckage site*.\n2. Missing the specific detail that the Gendarmerie spokesman, Lt. Col. Jean-Marc Menichini, stated the reports were \"completely wrong\" and \"unwarranted.\"",
+      "1. Missing the detail that the prosecutor stated \"so far no videos were used\" (the summary only says \"no onboard video footage has been used\").\n2. Missing the specific detail that the prosecutor told CNN that \"A person who has such a video needs to immediately give it to the investigators\" (the summary only mentions urging the public to submit any such video)."
+    ],
+    "times": [
+      9.39,
+      16.82,
+      17.59,
+      17.86
+    ],
+    "output": "Marseille prosecutor Brice Robin stated that \"so far no videos were used\" in the Germanwings Flight 9525 investigation and instructed that anyone possessing such footage must immediately give it to investigators. This contradicts reports from *Bild* and *Paris Match* claiming to have viewed a recovered cell phone video of the crash. Furthermore, a Gendarmerie spokesman dismissed these media reports as \"completely wrong\" and \"unwarranted.\"",
+    "time": 61.66
+  },
+  {
+    "id": "cnn_018",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 . His TV show, \"Hour of Power,\" was enormously popular in the 1970s and 1980s .",
+    "outputs": [
+      "The late Rev. Robert H. Schuller, founder of the \"Hour of Power\" ministry and Crystal Cathedral megachurch, passed away at age 88. Schuller was known for his confident and gentle brand of Christianity, which attracted a large following with its less intense message compared to some contemporary preachers. His life included early preaching experiences, leading him to establish a significant ministry career.",
+      "The late Rev. Robert H. Schuller, founder of the \"Hour of Power\" ministry and Crystal Cathedral, died Thursday at age 88. Schuller was known for his gentle brand of Christianity, which attracted a large following. His early career included notable preaching experiences, such as utilizing a drive-in theater snack bar roof.",
+      "The late Rev. Robert H. Schuller, founder of the \"Hour of Power\" ministry and Crystal Cathedral, passed away Thursday at age 88. He was diagnosed with esophageal cancer in August 2013 and was known for his gentle brand of Christianity, which attracted a large following. Schuller also maintained a long marriage to Arvella, with their early career including preaching from a drive-in theater snack bar roof.",
+      "The late Rev. Robert H. Schuller, founder of the \"Hour of Power\" ministry and Crystal Cathedral, passed away at age 88. Born in an Iowa farmhouse without running water, Schuller gained a following by offering a gentler brand of Christianity that contrasted with the harsh rhetoric of many post-War American preachers. His career included early preaching from unconventional venues, such as a drive-in theater snack bar roof."
+    ],
+    "feedbacks": [
+      "1. Missing the specific date of death: The summary fails to mention that he died on \"Thursday,\" which was specified in the article.\n2. Omitting key biographical detail: The summary fails to mention his early life experience of preaching from a drive-in theater/snack bar roof, a notable detail in his career arc.",
+      "1. Missing the specific detail about his diagnosis, which occurred in August 2013.\n2. Omitting the mention of his wife, Arvella, and their long marriage.",
+      "1. **Omission of key biographical detail:** The summary fails to mention Schuller's birthplace/early life context, specifically that he was born in an Iowa farmhouse without running water.\n2. **Understated scope of influence:** The summary only mentions his \"gentle brand of Christianity\" and misses the crucial context that his message was a deliberate contrast to the \"hellfire fulminations of many post-War American preachers.\""
+    ],
+    "times": [
+      8.36,
+      15.75,
+      15.19,
+      18.65
+    ],
+    "output": "The late Rev. Robert H. Schuller, founder of the \"Hour of Power\" ministry and Crystal Cathedral, passed away at age 88. Born in an Iowa farmhouse without running water, Schuller gained a following by offering a gentler brand of Christianity that contrasted with the harsh rhetoric of many post-War American preachers. His career included early preaching from unconventional venues, such as a drive-in theater snack bar roof.",
+    "time": 57.95
+  },
+  {
+    "id": "cnn_019",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Former GOP representative compares President Obama to Andreas Lubitz . Bachmann said with possible Iran deal, Obama will fly \"entire nation into the rocks\" Reaction on social media? She was blasted by Facebook commenters .",
+    "outputs": [
+      "Michele Bachmann drew a comparison between President Obama's Iran deal and the deliberate act of the co-pilot in the Germanwings crash, suggesting Obama endangered the nation. This highly controversial comparison drew significant backlash from the public on social media, with critics calling it despicable and inappropriate. The article notes that the Germanwings crash is under investigation, while the negotiations regarding Iran's nuclear program are approaching a critical June 30 deadline.",
+      "Michele Bachmann compared President Obama's Iran deal to the deliberate act of the Germanwings co-pilot, likening Obama's actions to endangering the 300 million souls of the U.S. versus the 150 on the Germanwings flight. This comparison, referencing the March 24 crash, drew significant backlash online. The article also notes that negotiations regarding Iran's nuclear program have a critical June 30 deadline.",
+      "Michele Bachmann compared President Obama's Iran deal to the deliberate actions of the Germanwings co-pilot, stating that Obama endangered the U.S. in the same manner the co-pilot endangered the 150 people on the Germanwings flight. This highly inflammatory comparison, which invoked the March 24 crash, drew significant backlash online. The article notes that negotiations concerning Iran's nuclear program have a critical deadline of June 30.",
+      "Michele Bachmann compared President Obama's Iran deal to the actions of the Germanwings co-pilot, analogizing the potential danger to the \"300 million souls of the United States\" to the 150 people on the Germanwings flight. This comparison, referencing the March 24 crash whose motive is still under investigation, drew significant online backlash. The article notes that negotiations regarding Iran's nuclear program have a critical deadline of June 30."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific number of souls/people involved in the Germanwings crash comparison (the summary omits the numbers Bachmann used: 300 million vs 150).\n2. Omitting the context that the Germanwings crash occurred on March 24 (the summary only mentions the crash is under investigation, losing the specific date context provided in the article).",
+      "1. **Incorrect casualty count for the Germanwings flight:** The summary states the Germanwings flight had \"150 on the Germanwings flight,\" but the article specifies that Andreas Lubitz died along with \"149 other crew and passengers.\"\n2. **Missing context regarding the comparison's nature:** The summary fails to mention that Bachmann explicitly compared Obama's actions to the co-pilot's act of \"flying his entire nation into the rocks,\" which is the core of her accusation.",
+      "Problems (be concrete, not generic):\n1. Misrepresenting the comparison's scope: The summary states Obama endangered the U.S. in the same manner the co-pilot endangered the 150 people, but the article quotes Bachmann comparing his actions to the danger posed to the \"300 million souls of the United States\" versus the \"150 souls on the German Wings flight.\"\n2. Omitting key context regarding the crash: The summary mentions the \"March 24 crash,\" but the article specifies that the crash occurred on \"March 24\" and that the investigation into the motive is ongoing, which is a more precise detail to include."
+    ],
+    "times": [
+      8.92,
+      18.78,
+      19.9,
+      22.93
+    ],
+    "output": "Michele Bachmann compared President Obama's Iran deal to the actions of the Germanwings co-pilot, analogizing the potential danger to the \"300 million souls of the United States\" to the 150 people on the Germanwings flight. This comparison, referencing the March 24 crash whose motive is still under investigation, drew significant online backlash. The article notes that negotiations regarding Iran's nuclear program have a critical deadline of June 30.",
+    "time": 70.53
+  }
+]

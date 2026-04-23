@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This formal accession, which followed the signing of the Rome Statute, was hailed by Palestinian officials like Foreign Minister Riad al-Malki as a step toward ending impunity. While the move faces opposition from non-member states like Israel and the US, it marks a significant legal development for potential war crimes investigations.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This formal accession, which followed the signing of the Rome Statute, was hailed by Palestinian officials like Foreign Minister Riad al-Malki as a step toward ending impunity. While the move faces opposition from non-member states like Israel and the US, it marks a significant legal development for potential war crimes investigations."
+    ],
+    "feedbacks": [],
+    "time": 13.12
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** A stray dog named Theia in Washington State miraculously survived multiple traumatic events, including being hit by a car, struck with a hammer, and buried. She was found by a worker and subsequently cared for by resident Sara Mellado, who is fostering her despite her severe injuries, including jaw and sinus damage. Due to the extensive required medical procedures, Mellado has started a fundraiser, which has already surpassed a $10,000 goal to help ensure Theia receives the necessary care.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** A stray dog named Theia in Washington State miraculously survived multiple traumatic events, including being hit by a car, struck with a hammer, and buried. She was found by a worker and subsequently cared for by resident Sara Mellado, who is fostering her despite her severe injuries, including jaw and sinus damage. Due to the extensive required medical procedures, Mellado has started a fundraiser, which has already surpassed a $10,000 goal to help ensure Theia receives the necessary care."
+    ],
+    "feedbacks": [],
+    "time": 12.87
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The article introduces Mohammad Javad Zarif, the Iranian foreign minister, highlighting his recent positive reception following discussions regarding potential sanctions relief. While acknowledging his diplomatic success in international relations, the piece pivots to reveal less-known facts about him, including a notable and tense Twitter exchange with Christine Pelosi concerning Holocaust denial.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The article introduces Mohammad Javad Zarif, the Iranian foreign minister, highlighting his recent positive reception following discussions regarding potential sanctions relief. While acknowledging his diplomatic success in international relations, the piece pivots to reveal less-known facts about him, including a notable and tense Twitter exchange with Christine Pelosi concerning Holocaust denial."
+    ],
+    "feedbacks": [],
+    "time": 9.82
+  }
+]

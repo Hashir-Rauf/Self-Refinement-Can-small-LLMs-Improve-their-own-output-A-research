@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_1",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "outputs": [
+      "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice.",
+      "The Palestinian Authority officially joined the International Criminal Court (ICC) on Wednesday, formalizing its accession with a ceremony at The Hague, Netherlands. This move grants the ICC jurisdiction over alleged crimes in Palestinian territories, specifically those committed since June 13, 2014. Palestinian officials view this as a major step toward achieving justice and ending impunity."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific date range for the alleged crimes accepted by the Palestinians (should include \"since June 13, 2014\").\n2. Omitting the key detail that the accession was marked by a ceremony at The Hague, in the Netherlands."
+    ],
+    "times": [
+      8.75,
+      16.05
+    ],
+    "output": "The Palestinian Authority officially joined the International Criminal Court (ICC) on Wednesday, formalizing its accession with a ceremony at The Hague, Netherlands. This move grants the ICC jurisdiction over alleged crimes in Palestinian territories, specifically those committed since June 13, 2014. Palestinian officials view this as a major step toward achieving justice and ending impunity.",
+    "time": 24.8
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_1",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "outputs": [
+      "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car, seemingly subjected to a beating, and buried. Despite suffering severe injuries like a dislocated jaw and sinus damage, the dog has been receiving care at a veterinary hospital. Local resident Sara Mellado is fostering Theia and has launched a fundraiser to help cover the extensive medical procedures required for her recovery.",
+      "A stray dog in Washington State, named Theia, survived multiple traumatic incidents, including being hit by a car, attacked, and buried. She was found near a farm in Moses Lake, Washington, by a worker who brought her to a vet, where she was later taken in by resident Sara Mellado. Due to severe injuries like a dislocated jaw and sinus damage, Mellado has launched a fundraiser to cover the extensive medical care Theia requires."
+    ],
+    "feedbacks": [
+      "1. Missing the specific location where the dog was found: The summary omits that the dog was found near a farm in Moses Lake, Washington.\n2. Missing the detail about the initial care provider: The summary fails to mention that the dog was initially found by a worker who took her to a vet for help before Sara Mellado took over care."
+    ],
+    "times": [
+      9.26,
+      18.42
+    ],
+    "output": "A stray dog in Washington State, named Theia, survived multiple traumatic incidents, including being hit by a car, attacked, and buried. She was found near a farm in Moses Lake, Washington, by a worker who brought her to a vet, where she was later taken in by resident Sara Mellado. Due to severe injuries like a dislocated jaw and sinus damage, Mellado has launched a fundraiser to cover the extensive medical care Theia requires.",
+    "time": 27.68
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_1",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "outputs": [
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in U.S. negotiations that could lift sanctions against Iran. Beyond his diplomatic role, the article reveals less-known facts, including an exchange on Twitter with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, succeeding the previous administration.",
+      "Mohammad Javad Zarif is the Iranian foreign minister, who played a role in U.S. negotiations potentially leading to the lifting of sanctions against Iran. The article also details less-known facts, such as a Twitter exchange with Christine Pelosi over Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, a decision influenced by the political and security conditions of the time."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Incorrect successor: The summary states Zarif was nominated by Hassan Rouhani, but the article specifies he was nominated by Ahmadinejad's successor.\n2. Missing detail regarding the nomination context: The summary omits the crucial detail that Zarif's nomination was related to the political and security conditions of the time."
+    ],
+    "times": [
+      8.25,
+      17.47
+    ],
+    "output": "Mohammad Javad Zarif is the Iranian foreign minister, who played a role in U.S. negotiations potentially leading to the lifting of sanctions against Iran. The article also details less-known facts, such as a Twitter exchange with Christine Pelosi over Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, a decision influenced by the political and security conditions of the time.",
+    "time": 25.72
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC), granting the court jurisdiction over alleged crimes in Palestinian territories.\n2. Palestine signed the Rome Statute and accepted the ICC's jurisdiction over alleged crimes in the occupied Palestinian territory, including East Jerusalem, since June 13, 2014.\n3. The move was framed by Palestinian officials as a step toward ending impunity and achieving justice, despite opposition from non-member states like Israel and the U.S.\n\n**Concise Summary:**\nThe Palestinian Authority has officially become the 123th member of the International Criminal Court (ICC), which grants the court jurisdiction over alleged crimes committed in Palestinian territories. This formal accession was hailed by Palestinian officials as a major step toward achieving justice and ending impunity. While the move was opposed by nations like Israel and the U.S., it solidifies the ICC's potential to investigate alleged war crimes in the region.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC), granting the court jurisdiction over alleged crimes in Palestinian territories.\n2. Palestine signed the Rome Statute and accepted the ICC's jurisdiction over alleged crimes in the occupied Palestinian territory, including East Jerusalem, since June 13, 2014.\n3. The move was framed by Palestinian officials as a step toward ending impunity and achieving justice, despite opposition from non-member states like Israel and the U.S.\n\n**Concise Summary:**\nThe Palestinian Authority has officially become the 123th member of the International Criminal Court (ICC), which grants the court jurisdiction over alleged crimes committed in Palestinian territories. This formal accession was hailed by Palestinian officials as a major step toward achieving justice and ending impunity. While the move was opposed by nations like Israel and the U.S., it solidifies the ICC's potential to investigate alleged war crimes in the region."
+    ],
+    "feedbacks": [],
+    "time": 21.12
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "Here are the requested elements based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A stray dog named Theia in Washington State survived multiple traumatic incidents, including being hit by a car, allegedly struck with a hammer, and buried in a field.\n2. The dog sustained severe injuries, including a dislocated jaw, leg injuries, and a caved-in sinus cavity, requiring extensive surgery.\n3. A local resident, Sara Mellado, is fostering Theia and has initiated a fundraiser to cover the remaining high costs of her life-saving medical care.\n\n**Concise Summary:**\nA stray dog named Theia in Washington State is a remarkable survivor who endured severe trauma, including multiple near-death experiences. Despite suffering serious injuries like jaw and sinus damage, the dog is receiving care from the Veterinary Teaching Hospital. A local resident has stepped up to foster Theia and is leading a fundraiser to ensure she receives the extensive medical procedures she desperately needs.",
+    "outputs": [
+      "Here are the requested elements based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A stray dog named Theia in Washington State survived multiple traumatic incidents, including being hit by a car, allegedly struck with a hammer, and buried in a field.\n2. The dog sustained severe injuries, including a dislocated jaw, leg injuries, and a caved-in sinus cavity, requiring extensive surgery.\n3. A local resident, Sara Mellado, is fostering Theia and has initiated a fundraiser to cover the remaining high costs of her life-saving medical care.\n\n**Concise Summary:**\nA stray dog named Theia in Washington State is a remarkable survivor who endured severe trauma, including multiple near-death experiences. Despite suffering serious injuries like jaw and sinus damage, the dog is receiving care from the Veterinary Teaching Hospital. A local resident has stepped up to foster Theia and is leading a fundraiser to ensure she receives the extensive medical procedures she desperately needs."
+    ],
+    "feedbacks": [],
+    "time": 17.52
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Mohammad Javad Zarif is the Iranian foreign minister who was instrumental in discussions that could lead to the easing of sanctions against Iran.\n2. In 2013, Zarif engaged in a public exchange on Twitter with Christine Pelosi regarding Iran's alleged Holocaust denial, referencing the departure of former President Ahmadinejad.\n3. Zarif's appointment as foreign minister came after the succession from former President Ahmadinejad.\n\n**Step 2 \u2013 Summary:**\nMohammad Javad Zarif, the Iranian foreign minister, has been central to efforts to potentially lift international sanctions on Iran. Beyond his diplomatic role, the article highlights a notable past Twitter exchange where Zarif publicly addressed accusations of Holocaust denial following the departure of a previous Iranian leader.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Mohammad Javad Zarif is the Iranian foreign minister who was instrumental in discussions that could lead to the easing of sanctions against Iran.\n2. In 2013, Zarif engaged in a public exchange on Twitter with Christine Pelosi regarding Iran's alleged Holocaust denial, referencing the departure of former President Ahmadinejad.\n3. Zarif's appointment as foreign minister came after the succession from former President Ahmadinejad.\n\n**Step 2 \u2013 Summary:**\nMohammad Javad Zarif, the Iranian foreign minister, has been central to efforts to potentially lift international sanctions on Iran. Beyond his diplomatic role, the article highlights a notable past Twitter exchange where Zarif publicly addressed accusations of Holocaust denial following the departure of a previous Iranian leader."
+    ],
+    "feedbacks": [],
+    "time": 15.76
+  }
+]

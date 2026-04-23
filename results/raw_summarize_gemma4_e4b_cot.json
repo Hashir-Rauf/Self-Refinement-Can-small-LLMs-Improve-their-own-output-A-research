@@ -1,0 +1,262 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC), granting the court jurisdiction over alleged crimes in Palestinian territories.\n2. Palestine signed the Rome Statute and accepted the ICC's jurisdiction over alleged crimes in the occupied Palestinian territory, including East Jerusalem, since June 13, 2014.\n3. The move was framed by Palestinian officials as a step toward ending impunity and achieving justice, despite opposition from non-member states like Israel and the U.S.\n\n**Concise Summary:**\nThe Palestinian Authority has officially become the 123th member of the International Criminal Court (ICC), which grants the court jurisdiction over alleged crimes committed in Palestinian territories. This formal accession was hailed by Palestinian officials as a major step toward achieving justice and ending impunity. While the move was opposed by nations like Israel and the U.S., it solidifies the ICC's potential to investigate alleged war crimes in the region.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC), granting the court jurisdiction over alleged crimes in Palestinian territories.\n2. Palestine signed the Rome Statute and accepted the ICC's jurisdiction over alleged crimes in the occupied Palestinian territory, including East Jerusalem, since June 13, 2014.\n3. The move was framed by Palestinian officials as a step toward ending impunity and achieving justice, despite opposition from non-member states like Israel and the U.S.\n\n**Concise Summary:**\nThe Palestinian Authority has officially become the 123th member of the International Criminal Court (ICC), which grants the court jurisdiction over alleged crimes committed in Palestinian territories. This formal accession was hailed by Palestinian officials as a major step toward achieving justice and ending impunity. While the move was opposed by nations like Israel and the U.S., it solidifies the ICC's potential to investigate alleged war crimes in the region."
+    ],
+    "feedbacks": [],
+    "time": 18.64
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "Here are the requested elements based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A stray dog named Theia in Washington State survived multiple traumatic incidents, including being hit by a car, allegedly struck with a hammer, and buried in a field.\n2. The dog sustained severe injuries, including a dislocated jaw, leg injuries, and a caved-in sinus cavity, requiring extensive surgery.\n3. A local resident, Sara Mellado, is fostering Theia and has initiated a fundraiser to cover the remaining high costs of her life-saving medical care.\n\n**Concise Summary:**\nA stray dog named Theia in Washington State is a remarkable survivor who endured severe trauma, including multiple near-death experiences. Despite suffering serious injuries like jaw and sinus damage, the dog is receiving care from the Veterinary Teaching Hospital. A local resident has stepped up to foster Theia and is leading a fundraiser to ensure she receives the extensive medical procedures she desperately needs.",
+    "outputs": [
+      "Here are the requested elements based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A stray dog named Theia in Washington State survived multiple traumatic incidents, including being hit by a car, allegedly struck with a hammer, and buried in a field.\n2. The dog sustained severe injuries, including a dislocated jaw, leg injuries, and a caved-in sinus cavity, requiring extensive surgery.\n3. A local resident, Sara Mellado, is fostering Theia and has initiated a fundraiser to cover the remaining high costs of her life-saving medical care.\n\n**Concise Summary:**\nA stray dog named Theia in Washington State is a remarkable survivor who endured severe trauma, including multiple near-death experiences. Despite suffering serious injuries like jaw and sinus damage, the dog is receiving care from the Veterinary Teaching Hospital. A local resident has stepped up to foster Theia and is leading a fundraiser to ensure she receives the extensive medical procedures she desperately needs."
+    ],
+    "feedbacks": [],
+    "time": 17.29
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Mohammad Javad Zarif is the Iranian foreign minister who was instrumental in discussions that could lead to the easing of sanctions against Iran.\n2. In 2013, Zarif engaged in a public exchange on Twitter with Christine Pelosi regarding Iran's alleged Holocaust denial, referencing the departure of former President Ahmadinejad.\n3. Zarif's appointment as foreign minister came after the succession from former President Ahmadinejad.\n\n**Step 2 \u2013 Summary:**\nMohammad Javad Zarif, the Iranian foreign minister, has been central to efforts to potentially lift international sanctions on Iran. Beyond his diplomatic role, the article highlights a notable past Twitter exchange where Zarif publicly addressed accusations of Holocaust denial following the departure of a previous Iranian leader.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Mohammad Javad Zarif is the Iranian foreign minister who was instrumental in discussions that could lead to the easing of sanctions against Iran.\n2. In 2013, Zarif engaged in a public exchange on Twitter with Christine Pelosi regarding Iran's alleged Holocaust denial, referencing the departure of former President Ahmadinejad.\n3. Zarif's appointment as foreign minister came after the succession from former President Ahmadinejad.\n\n**Step 2 \u2013 Summary:**\nMohammad Javad Zarif, the Iranian foreign minister, has been central to efforts to potentially lift international sanctions on Iran. Beyond his diplomatic role, the article highlights a notable past Twitter exchange where Zarif publicly addressed accusations of Holocaust denial following the departure of a previous Iranian leader."
+    ],
+    "feedbacks": [],
+    "time": 15.38
+  },
+  {
+    "id": "cnn_003",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "17 Americans were exposed to the Ebola virus while in Sierra Leone in March . Another person was diagnosed with the disease and taken to hospital in Maryland . National Institutes of Health says the patient is in fair condition after weeks of treatment .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Five American clinicians, exposed to Ebola in West Africa (Sierra Leone) in March, have been released from a Nebraska hospital after three weeks of monitoring.\n2. None of the five individuals developed the Ebola virus, although they had contact with a diagnosed colleague.\n3. The article provides context that the Ebola epidemic in West Africa (starting December 2013) has resulted in over 10,000 deaths, and the virus spreads through direct contact with bodily fluids.\n\n**Concise Summary:**\nFive American clinicians who were monitored in Omaha, Nebraska, after Ebola exposure in West Africa have been released, having shown no signs of infection. The monitoring followed contact with a colleague diagnosed with the virus. This incident provides context against the backdrop of a severe West African Ebola epidemic that has caused thousands of deaths.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Five American clinicians, exposed to Ebola in West Africa (Sierra Leone) in March, have been released from a Nebraska hospital after three weeks of monitoring.\n2. None of the five individuals developed the Ebola virus, although they had contact with a diagnosed colleague.\n3. The article provides context that the Ebola epidemic in West Africa (starting December 2013) has resulted in over 10,000 deaths, and the virus spreads through direct contact with bodily fluids.\n\n**Concise Summary:**\nFive American clinicians who were monitored in Omaha, Nebraska, after Ebola exposure in West Africa have been released, having shown no signs of infection. The monitoring followed contact with a colleague diagnosed with the virus. This incident provides context against the backdrop of a severe West African Ebola epidemic that has caused thousands of deaths."
+    ],
+    "feedbacks": [],
+    "time": 16.16
+  },
+  {
+    "id": "cnn_004",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Student is no longer on Duke University campus and will face disciplinary review . School officials identified student during investigation and the person admitted to hanging the noose, Duke says . The noose, made of rope, was discovered on campus about 2 a.m.",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A Duke student admitted to hanging a noose made of rope from a tree near the student union.\n2. The student has been removed from campus and will face a student conduct review, and criminal investigations are ongoing.\n3. The incident is part of a pattern of recent racist events affecting college students, with other examples cited at institutions like the University of Oklahoma and the University of Mississippi.\n\n**Summary:**\nA Duke student admitted to hanging a noose from a tree on campus, leading to the student's removal and ongoing investigations. The incident prompted a large gathering of students and faculty who voiced their opposition to the event. This action is noted as one of several recent racist incidents affecting college campuses across the country.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A Duke student admitted to hanging a noose made of rope from a tree near the student union.\n2. The student has been removed from campus and will face a student conduct review, and criminal investigations are ongoing.\n3. The incident is part of a pattern of recent racist events affecting college students, with other examples cited at institutions like the University of Oklahoma and the University of Mississippi.\n\n**Summary:**\nA Duke student admitted to hanging a noose from a tree on campus, leading to the student's removal and ongoing investigations. The incident prompted a large gathering of students and faculty who voiced their opposition to the event. This action is noted as one of several recent racist incidents affecting college campuses across the country."
+    ],
+    "feedbacks": [],
+    "time": 15.01
+  },
+  {
+    "id": "cnn_005",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "College-bound basketball star asks girl with Down syndrome to high school prom . Pictures of the two during the \"prom-posal\" have gone viral .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Trey Moses, a star basketball recruit, asked Ellie Meredith, a high school freshman with Down syndrome, to be his prom date.\n2. Trey made the public \"prom-posal\" in the gym during Ellie's P.E. class, which was captured and went viral online.\n3. Ellie's mother noted that the Best Buddies program at Eastern High School helps students with developmental disabilities build friendships and prevent isolation.\n\n**Step 2 \u2013 Concise Summary:**\nA star basketball recruit named Trey Moses surprised everyone by asking Ellie Meredith, a freshman with Down syndrome, to be his prom date. This heartwarming public proposal went viral after being captured by a teacher. The event highlights the positive impact of programs like Best Buddies, which help foster friendships for students with developmental disabilities.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Trey Moses, a star basketball recruit, asked Ellie Meredith, a high school freshman with Down syndrome, to be his prom date.\n2. Trey made the public \"prom-posal\" in the gym during Ellie's P.E. class, which was captured and went viral online.\n3. Ellie's mother noted that the Best Buddies program at Eastern High School helps students with developmental disabilities build friendships and prevent isolation.\n\n**Step 2 \u2013 Concise Summary:**\nA star basketball recruit named Trey Moses surprised everyone by asking Ellie Meredith, a freshman with Down syndrome, to be his prom date. This heartwarming public proposal went viral after being captured by a teacher. The event highlights the positive impact of programs like Best Buddies, which help foster friendships for students with developmental disabilities."
+    ],
+    "feedbacks": [],
+    "time": 16.01
+  },
+  {
+    "id": "cnn_006",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death . Organization claims that governments around the world are using the threat of terrorism to advance executions . The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% .",
+    "output": "Here are the requested components based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Amnesty International alleges that governments worldwide are using the threat of terrorism (real or perceived) to advance and justify executions.\n2. The report cites examples like Pakistan lifting its execution moratorium after a school attack and China using the death penalty in Xinjiang.\n3. While the overall number of global executions dropped by almost 22% in 2014 (according to Amnesty's data), the trend shows some positive movement toward abolition in certain countries.\n\n**Step 2 \u2013 Concise Summary:**\nAmnesty International's report alleges that many governments are inappropriately using the death penalty in response to terrorism threats or internal instability. While the report notes a positive, global decline in the number of executions in 2014, it warns against the dangerous trend of using state-sanctioned killing as a primary tool for security.",
+    "outputs": [
+      "Here are the requested components based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Amnesty International alleges that governments worldwide are using the threat of terrorism (real or perceived) to advance and justify executions.\n2. The report cites examples like Pakistan lifting its execution moratorium after a school attack and China using the death penalty in Xinjiang.\n3. While the overall number of global executions dropped by almost 22% in 2014 (according to Amnesty's data), the trend shows some positive movement toward abolition in certain countries.\n\n**Step 2 \u2013 Concise Summary:**\nAmnesty International's report alleges that many governments are inappropriately using the death penalty in response to terrorism threats or internal instability. While the report notes a positive, global decline in the number of executions in 2014, it warns against the dangerous trend of using state-sanctioned killing as a primary tool for security."
+    ],
+    "feedbacks": [],
+    "time": 16.53
+  },
+  {
+    "id": "cnn_007",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment . In a petition for a restraining order, Getty had written he had a serious medical condition. Police say this is not a criminal matter at this time .",
+    "output": "Here are the requested components based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Andrew Getty, the grandson of oil tycoon J. Paul Getty, has died of natural causes, according to the Los Angeles Police Department.\n2. Preliminary assessments indicate no foul play was involved, though an autopsy will be conducted.\n3. The article notes that the Getty family fortune originates from oil money and mentions Andrew Getty had recently filed for a restraining order.\n\n**Concise Summary:**\nAndrew Getty, grandson of oil tycoon J. Paul Getty, has passed away due to natural causes, with police confirming no foul play was suspected. While an autopsy is pending, the family confirmed the death and requested privacy. The article also provided context on the family's wealth stemming from oil and noted recent legal filings involving Andrew Getty.",
+    "outputs": [
+      "Here are the requested components based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Andrew Getty, the grandson of oil tycoon J. Paul Getty, has died of natural causes, according to the Los Angeles Police Department.\n2. Preliminary assessments indicate no foul play was involved, though an autopsy will be conducted.\n3. The article notes that the Getty family fortune originates from oil money and mentions Andrew Getty had recently filed for a restraining order.\n\n**Concise Summary:**\nAndrew Getty, grandson of oil tycoon J. Paul Getty, has passed away due to natural causes, with police confirming no foul play was suspected. While an autopsy is pending, the family confirmed the death and requested privacy. The article also provided context on the family's wealth stemming from oil and noted recent legal filings involving Andrew Getty."
+    ],
+    "feedbacks": [],
+    "time": 14.89
+  },
+  {
+    "id": "cnn_008",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Once a super typhoon, Maysak is now a tropical storm with 70 mph winds . It could still cause flooding, landslides and other problems in the Philippines .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Tropical storm Maysak (locally named Chedeng) is approaching the Philippines and is expected to make landfall on the southeastern coast of Isabela province on Sunday morning.\n2. Due to the approaching storm, authorities have implemented safety measures, including barring outdoor activities and conducting precautionary evacuations.\n3. While it has weakened from a super typhoon, officials warn residents to prepare seriously for potential impacts upon landfall.\n\n**Step 2 \u2013 Summary:**\nTropical storm Maysak, known locally as Chedeng, is approaching the Philippines and is anticipated to make landfall in Isabela province on Sunday morning. In response to the threat, authorities have issued warnings, barred outdoor activities, and begun evacuations to ensure public safety. Residents are advised to take precautions as the storm's impact is unpredictable.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Tropical storm Maysak (locally named Chedeng) is approaching the Philippines and is expected to make landfall on the southeastern coast of Isabela province on Sunday morning.\n2. Due to the approaching storm, authorities have implemented safety measures, including barring outdoor activities and conducting precautionary evacuations.\n3. While it has weakened from a super typhoon, officials warn residents to prepare seriously for potential impacts upon landfall.\n\n**Step 2 \u2013 Summary:**\nTropical storm Maysak, known locally as Chedeng, is approaching the Philippines and is anticipated to make landfall in Isabela province on Sunday morning. In response to the threat, authorities have issued warnings, barred outdoor activities, and begun evacuations to ensure public safety. Residents are advised to take precautions as the storm's impact is unpredictable."
+    ],
+    "feedbacks": [],
+    "time": 15.65
+  },
+  {
+    "id": "cnn_009",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Bob Barker returned to host \"The Price Is Right\" on Wednesday . Barker, 91, had retired as host in 2007 .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Bob Barker, the legendary host of \"The Price Is Right,\" returned to the show for the first time in eight years.\n2. Barker, who previously hosted for 35 years and stepped down in 2007, hosted the show's initial game segment on the April 1 episode.\n3. Despite his age (91), Barker appeared spry and successfully handed hosting duties back to Drew Carey.\n\n**Summary:**\nAfter an eight-year absence, TV legend Bob Barker returned to host \"The Price Is Right\" on April 1st. The 91-year-old hosted the opening game segment, demonstrating that he was still spry enough to resume his iconic role before passing the duties back to Drew Carey.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Bob Barker, the legendary host of \"The Price Is Right,\" returned to the show for the first time in eight years.\n2. Barker, who previously hosted for 35 years and stepped down in 2007, hosted the show's initial game segment on the April 1 episode.\n3. Despite his age (91), Barker appeared spry and successfully handed hosting duties back to Drew Carey.\n\n**Summary:**\nAfter an eight-year absence, TV legend Bob Barker returned to host \"The Price Is Right\" on April 1st. The 91-year-old hosted the opening game segment, demonstrating that he was still spry enough to resume his iconic role before passing the duties back to Drew Carey."
+    ],
+    "feedbacks": [],
+    "time": 15.15
+  },
+  {
+    "id": "cnn_010",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul . He's been charged with terror offenses allegedly committed since the start of November .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A 19-year-old UK national named Yahya Rashid was arrested at Luton airport upon his return to Britain from Turkey.\n2. He has been charged with terror offenses, specifically preparing for acts of terrorism and intending to assist others with terrorism.\n3. The charges relate to activities that took place between November 1 and March 31.\n\n**Summary:**\nYahya Rashid, a 19-year-old London national, was arrested at Luton airport after arriving from Turkey. He faces terrorism charges, including preparing for and intending to assist in acts of terrorism. He is scheduled to appear in court regarding activities that occurred between November 1 and March 31.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. A 19-year-old UK national named Yahya Rashid was arrested at Luton airport upon his return to Britain from Turkey.\n2. He has been charged with terror offenses, specifically preparing for acts of terrorism and intending to assist others with terrorism.\n3. The charges relate to activities that took place between November 1 and March 31.\n\n**Summary:**\nYahya Rashid, a 19-year-old London national, was arrested at Luton airport after arriving from Turkey. He faces terrorism charges, including preparing for and intending to assist in acts of terrorism. He is scheduled to appear in court regarding activities that occurred between November 1 and March 31."
+    ],
+    "feedbacks": [],
+    "time": 14.22
+  },
+  {
+    "id": "cnn_011",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "\"Furious 7\" pays tribute to star Paul Walker, who died during filming . Vin Diesel: \"This movie is more than a movie\" \"Furious 7\" opens Friday .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Paul Walker died in a car crash in November 2013 at age 40.\n2. His death occurred while he was taking a break from filming \"Furious 7.\"\n3. The film was completed using special effects and his brothers as body doubles to pay tribute to him.\n\n**Concise Summary:**\nPaul Walker tragically died in a car crash in November 2013, an event that deeply affected the film industry, particularly his franchise. To honor his memory, the production of \"Furious 7\" was completed using special effects and his brothers as stand-ins. The movie's ending serves as a poignant tribute to the actor.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Paul Walker died in a car crash in November 2013 at age 40.\n2. His death occurred while he was taking a break from filming \"Furious 7.\"\n3. The film was completed using special effects and his brothers as body doubles to pay tribute to him.\n\n**Concise Summary:**\nPaul Walker tragically died in a car crash in November 2013, an event that deeply affected the film industry, particularly his franchise. To honor his memory, the production of \"Furious 7\" was completed using special effects and his brothers as stand-ins. The movie's ending serves as a poignant tribute to the actor."
+    ],
+    "feedbacks": [],
+    "time": 14.26
+  },
+  {
+    "id": "cnn_012",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Museum: Anne Frank died earlier than previously believed . Researchers re-examined archives and testimonies of survivors . Anne and older sister Margot Frank are believed to have died in February 1945 .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. New research, re-examining various archives and testimonies, suggests that Anne Frank and Margot Frank died at least a month earlier than previously believed.\n2. This new finding contradicts the previous determination of their death date by Dutch authorities, suggesting they did not survive to March 1945.\n3. The research details the horrific conditions they endured after being sent to the Bergen-Belsen concentration camp in 1944.\n\n**Summary:**\nNew research from the Anne Frank House challenges the previously accepted date of death for Anne and Margot Frank, indicating they likely perished at least a month before March 1945. By re-examining Red Cross records and survivor testimonies, researchers concluded their death predates the liberation of the Bergen-Belsen camp. This revision highlights the brutal conditions they faced while imprisoned in the concentration camp.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. New research, re-examining various archives and testimonies, suggests that Anne Frank and Margot Frank died at least a month earlier than previously believed.\n2. This new finding contradicts the previous determination of their death date by Dutch authorities, suggesting they did not survive to March 1945.\n3. The research details the horrific conditions they endured after being sent to the Bergen-Belsen concentration camp in 1944.\n\n**Summary:**\nNew research from the Anne Frank House challenges the previously accepted date of death for Anne and Margot Frank, indicating they likely perished at least a month before March 1945. By re-examining Red Cross records and survivor testimonies, researchers concluded their death predates the liberation of the Bergen-Belsen camp. This revision highlights the brutal conditions they faced while imprisoned in the concentration camp."
+    ],
+    "feedbacks": [],
+    "time": 16.94
+  },
+  {
+    "id": "cnn_013",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 . Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet \"won\" in America .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Mike Pence has made controversial decisions, such as signing a religious freedom law that critics argue opens the door to discrimination against gay and lesbian people, to secure support from powerful, conservative wings of his party.\n2. Pence's actions are partly motivated by maintaining \"street cred\" with ultra-conservatives, even when it causes backlash from local business interests or political allies.\n3. The public debate surrounding such conservative social issues is having the effect of pulling the entire Republican party platform further to the right.\n\n**Step 2 \u2013 Summary:**\nMike Pence has faced criticism for signing a religious freedom law, which critics argue promotes discrimination, but the article suggests this was a strategic move to appease the powerful, conservative wing of the Republican party. Regardless of the backlash, this public debate over social issues is successfully pushing the entire Republican party platform further rightward.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Mike Pence has made controversial decisions, such as signing a religious freedom law that critics argue opens the door to discrimination against gay and lesbian people, to secure support from powerful, conservative wings of his party.\n2. Pence's actions are partly motivated by maintaining \"street cred\" with ultra-conservatives, even when it causes backlash from local business interests or political allies.\n3. The public debate surrounding such conservative social issues is having the effect of pulling the entire Republican party platform further to the right.\n\n**Step 2 \u2013 Summary:**\nMike Pence has faced criticism for signing a religious freedom law, which critics argue promotes discrimination, but the article suggests this was a strategic move to appease the powerful, conservative wing of the Republican party. Regardless of the backlash, this public debate over social issues is successfully pushing the entire Republican party platform further rightward."
+    ],
+    "feedbacks": [],
+    "time": 16.71
+  },
+  {
+    "id": "cnn_014",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Singing the national anthem is a risky proposition . Whitney Houston nailed it; Roseanne Barr destroyed it .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Performing the national anthem as a famous individual carries a high risk of public judgment, leading to either \"national hero\" or \"national disgrace\" status.\n2. The article cites diverse examples, ranging from Whitney Houston's acclaimed performance (Super Bowl XXV) to controversial renditions by Roseanne Barr and Jimi Hendrix.\n3. The performance is subject to public and professional scrutiny, as exemplified by Vince Neil's recent performance and Michael Bolton's noted error.\n\n**Concise Summary:**\nPerforming the American national anthem in a public setting is fraught with risk, as celebrity interpretations can lead to either national acclaim or public condemnation. The article showcases the spectrum of reactions using historical examples, from Whitney Houston's celebrated rendition to controversial performances by figures like Roseanne Barr and Jimi Hendrix. Ultimately, the performance is highly scrutinized, making it a potentially career-defining moment.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Performing the national anthem as a famous individual carries a high risk of public judgment, leading to either \"national hero\" or \"national disgrace\" status.\n2. The article cites diverse examples, ranging from Whitney Houston's acclaimed performance (Super Bowl XXV) to controversial renditions by Roseanne Barr and Jimi Hendrix.\n3. The performance is subject to public and professional scrutiny, as exemplified by Vince Neil's recent performance and Michael Bolton's noted error.\n\n**Concise Summary:**\nPerforming the American national anthem in a public setting is fraught with risk, as celebrity interpretations can lead to either national acclaim or public condemnation. The article showcases the spectrum of reactions using historical examples, from Whitney Houston's celebrated rendition to controversial performances by figures like Roseanne Barr and Jimi Hendrix. Ultimately, the performance is highly scrutinized, making it a potentially career-defining moment."
+    ],
+    "feedbacks": [],
+    "time": 17.04
+  },
+  {
+    "id": "cnn_015",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition . Walmart and other high-profile businesses are showing their support for gay and lesbian rights . Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Prominent figures, including Apple CEO Tim Cook and the NCAA head, criticized proposed religious freedom laws in several states, citing potential discrimination against gay and lesbian people.\n2. Walmart's strong opposition to a religious freedom law in Arkansas, coupled with its plans to raise wages, suggests the retailer is becoming an indicator of shifting public opinion on social issues.\n3. Some Republicans are advising the GOP that, following Walmart's stance, the party needs to shift its focus to supporting the middle class and prohibiting discrimination against groups like gay and lesbians.\n\n**Step 2 \u2013 Summary:**\nMajor corporate figures and political observers are noting that Walmart's outspoken criticism of religious freedom laws, alongside its wage increases, signals a potential shift in public opinion toward supporting LGBTQ+ rights. This trend has prompted some Republicans to urge the party to adapt its platform to better address economic concerns for the middle class and advocate against discrimination.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Prominent figures, including Apple CEO Tim Cook and the NCAA head, criticized proposed religious freedom laws in several states, citing potential discrimination against gay and lesbian people.\n2. Walmart's strong opposition to a religious freedom law in Arkansas, coupled with its plans to raise wages, suggests the retailer is becoming an indicator of shifting public opinion on social issues.\n3. Some Republicans are advising the GOP that, following Walmart's stance, the party needs to shift its focus to supporting the middle class and prohibiting discrimination against groups like gay and lesbians.\n\n**Step 2 \u2013 Summary:**\nMajor corporate figures and political observers are noting that Walmart's outspoken criticism of religious freedom laws, alongside its wage increases, signals a potential shift in public opinion toward supporting LGBTQ+ rights. This trend has prompted some Republicans to urge the party to adapt its platform to better address economic concerns for the middle class and advocate against discrimination."
+    ],
+    "feedbacks": [],
+    "time": 17.47
+  },
+  {
+    "id": "cnn_016",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading . Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. On May 28, 2014, authorities in Xinjiang, China, conducted a public mass sentencing of 55 people, three of whom were sentenced to death, as part of a \"Strike Hard\" campaign against unrest.\n2. The article notes a global trend where governments are increasingly using the death penalty in response to crime and terrorism, citing examples like Pakistan, Iran, Iraq, and Jordan.\n3. Amnesty International's review highlights that despite global awareness of summary executions by armed groups, governments are continuing to use executions in flawed attempts to manage crime rates.\n\n**Step 2 \u2013 Concise summary:**\nThe article highlights a worrying global trend where governments are increasingly utilizing the death penalty in response to perceived threats like terrorism and unrest, exemplified by a mass sentencing event in China's Xinjiang region. Amnesty International's review points out that this resort to capital punishment is happening despite widespread international condemnation of summary executions by armed groups. Overall, governments are making flawed and aggressive efforts to address crime rates by expanding the use of the death penalty.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. On May 28, 2014, authorities in Xinjiang, China, conducted a public mass sentencing of 55 people, three of whom were sentenced to death, as part of a \"Strike Hard\" campaign against unrest.\n2. The article notes a global trend where governments are increasingly using the death penalty in response to crime and terrorism, citing examples like Pakistan, Iran, Iraq, and Jordan.\n3. Amnesty International's review highlights that despite global awareness of summary executions by armed groups, governments are continuing to use executions in flawed attempts to manage crime rates.\n\n**Step 2 \u2013 Concise summary:**\nThe article highlights a worrying global trend where governments are increasingly utilizing the death penalty in response to perceived threats like terrorism and unrest, exemplified by a mass sentencing event in China's Xinjiang region. Amnesty International's review points out that this resort to capital punishment is happening despite widespread international condemnation of summary executions by armed groups. Overall, governments are making flawed and aggressive efforts to address crime rates by expanding the use of the death penalty."
+    ],
+    "feedbacks": [],
+    "time": 19.66
+  },
+  {
+    "id": "cnn_017",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Marseille prosecutor says \"so far no videos were used in the crash investigation\" despite media reports . Journalists at Bild and Paris Match are \"very confident\" the video clip is real, an editor says . Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says .",
+    "output": "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. The French prosecutor leading the Germanwings Flight 9525 investigation stated that no video footage has been used in the investigation and that anyone with such video should give it to the authorities.\n2. Two magazines (Bild and Paris Match) reported claims of a cell phone video showing the final seconds of the crash, allegedly recovered from the wreckage.\n3. Official sources, including the prosecutor and a Gendarmerie spokesman, dismissed these reports as \"completely wrong\" and \"unwarranted,\" noting that the investigation agency was unaware of the video.\n\n**Summary:**\nDespite reports from two magazines claiming they viewed a cell phone video depicting the final moments of Germanwings Flight 9525, the official prosecutor and accident investigation authorities have strongly refuted these claims. They stated that no such video has been used in the investigation and that the reports circulating about the footage are completely inaccurate.",
+    "outputs": [
+      "Here are the requested steps based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. The French prosecutor leading the Germanwings Flight 9525 investigation stated that no video footage has been used in the investigation and that anyone with such video should give it to the authorities.\n2. Two magazines (Bild and Paris Match) reported claims of a cell phone video showing the final seconds of the crash, allegedly recovered from the wreckage.\n3. Official sources, including the prosecutor and a Gendarmerie spokesman, dismissed these reports as \"completely wrong\" and \"unwarranted,\" noting that the investigation agency was unaware of the video.\n\n**Summary:**\nDespite reports from two magazines claiming they viewed a cell phone video depicting the final moments of Germanwings Flight 9525, the official prosecutor and accident investigation authorities have strongly refuted these claims. They stated that no such video has been used in the investigation and that the reports circulating about the footage are completely inaccurate."
+    ],
+    "feedbacks": [],
+    "time": 17.34
+  },
+  {
+    "id": "cnn_018",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 . His TV show, \"Hour of Power,\" was enormously popular in the 1970s and 1980s .",
+    "output": "Here are the requested components based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Rev. Robert H. Schuller, founder of \"Hour of Power\" and Crystal Cathedral, passed away at the age of 88.\n2. Schuller was known for his confident, breezy brand of Christianity, which offered a gentler message compared to the more intense preaching of some post-war preachers.\n3. His ministry began dramatically when he started preaching from a drive-in theater snack bar in California.\n\n**Concise Summary:**\nRobert H. Schuller, the influential televangelist and founder of the \"Hour of Power,\" passed away at age 88. Schuller built a massive following by promoting a gentle, feel-good version of Christianity, a ministry that famously began when he started preaching from a drive-in theater.",
+    "outputs": [
+      "Here are the requested components based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Rev. Robert H. Schuller, founder of \"Hour of Power\" and Crystal Cathedral, passed away at the age of 88.\n2. Schuller was known for his confident, breezy brand of Christianity, which offered a gentler message compared to the more intense preaching of some post-war preachers.\n3. His ministry began dramatically when he started preaching from a drive-in theater snack bar in California.\n\n**Concise Summary:**\nRobert H. Schuller, the influential televangelist and founder of the \"Hour of Power,\" passed away at age 88. Schuller built a massive following by promoting a gentle, feel-good version of Christianity, a ministry that famously began when he started preaching from a drive-in theater."
+    ],
+    "feedbacks": [],
+    "time": 15.44
+  },
+  {
+    "id": "cnn_019",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "cot",
+    "reference": "Former GOP representative compares President Obama to Andreas Lubitz . Bachmann said with possible Iran deal, Obama will fly \"entire nation into the rocks\" Reaction on social media? She was blasted by Facebook commenters .",
+    "output": "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Michele Bachmann compared President Obama's Iran deal to the act of a deranged pilot deliberately crashing the Germanwings flight.\n2. The Germanwings crash involved the co-pilot, Andreas Lubitz, who was accused of deliberately crashing the plane.\n3. The article notes that the Iran negotiations are nearing a June 30 deadline for a comprehensive deal regarding Tehran's nuclear program.\n\n**Step 2 \u2013 Summary:**\nMichele Bachmann sparked controversy by comparing President Obama's Iran deal to the deliberate act of a deranged pilot crashing the Germanwings flight. This inflammatory comparison was met with strong public backlash for being inappropriate and disrespectful. The discussion takes place against the backdrop of critical negotiations aiming to curb Iran's nuclear capabilities by a June 30 deadline.",
+    "outputs": [
+      "Here are the key facts and summary based on the article:\n\n**Step 1 \u2013 Key facts:**\n1. Michele Bachmann compared President Obama's Iran deal to the act of a deranged pilot deliberately crashing the Germanwings flight.\n2. The Germanwings crash involved the co-pilot, Andreas Lubitz, who was accused of deliberately crashing the plane.\n3. The article notes that the Iran negotiations are nearing a June 30 deadline for a comprehensive deal regarding Tehran's nuclear program.\n\n**Step 2 \u2013 Summary:**\nMichele Bachmann sparked controversy by comparing President Obama's Iran deal to the deliberate act of a deranged pilot crashing the Germanwings flight. This inflammatory comparison was met with strong public backlash for being inappropriate and disrespectful. The discussion takes place against the backdrop of critical negotiations aiming to curb Iran's nuclear capabilities by a June 30 deadline."
+    ],
+    "feedbacks": [],
+    "time": 15.72
+  }
+]

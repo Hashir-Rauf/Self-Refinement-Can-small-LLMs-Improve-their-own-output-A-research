@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice.",
+    "outputs": [
+      "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice."
+    ],
+    "feedbacks": [],
+    "time": 8.62
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car, seemingly subjected to a beating, and buried. Despite suffering severe injuries like a dislocated jaw and sinus damage, the dog has been receiving care at a veterinary hospital. Local resident Sara Mellado is fostering Theia and has launched a fundraiser to help cover the extensive medical procedures required for her recovery.",
+    "outputs": [
+      "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car, seemingly subjected to a beating, and buried. Despite suffering severe injuries like a dislocated jaw and sinus damage, the dog has been receiving care at a veterinary hospital. Local resident Sara Mellado is fostering Theia and has launched a fundraiser to help cover the extensive medical procedures required for her recovery."
+    ],
+    "feedbacks": [],
+    "time": 8.92
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in U.S. negotiations that could lift sanctions against Iran. Beyond his diplomatic role, the article reveals less-known facts, including an exchange on Twitter with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, succeeding the previous administration.",
+    "outputs": [
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in U.S. negotiations that could lift sanctions against Iran. Beyond his diplomatic role, the article reveals less-known facts, including an exchange on Twitter with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, succeeding the previous administration."
+    ],
+    "feedbacks": [],
+    "time": 7.91
+  }
+]

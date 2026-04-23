@@ -1,0 +1,522 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.07,
+      4.08,
+      4.05,
+      4.06
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.26
+  },
+  {
+    "id": "cnn_001",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.04,
+      4.06,
+      4.05,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.2
+  },
+  {
+    "id": "cnn_002",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.06,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.19
+  },
+  {
+    "id": "cnn_003",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "17 Americans were exposed to the Ebola virus while in Sierra Leone in March . Another person was diagnosed with the disease and taken to hospital in Maryland . National Institutes of Health says the patient is in fair condition after weeks of treatment .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.07,
+      4.06,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.21
+  },
+  {
+    "id": "cnn_004",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Student is no longer on Duke University campus and will face disciplinary review . School officials identified student during investigation and the person admitted to hanging the noose, Duke says . The noose, made of rope, was discovered on campus about 2 a.m.",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.05,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.18
+  },
+  {
+    "id": "cnn_005",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "College-bound basketball star asks girl with Down syndrome to high school prom . Pictures of the two during the \"prom-posal\" have gone viral .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.08,
+      4.06
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.22
+  },
+  {
+    "id": "cnn_006",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death . Organization claims that governments around the world are using the threat of terrorism to advance executions . The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.05,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.18
+  },
+  {
+    "id": "cnn_007",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment . In a petition for a restraining order, Getty had written he had a serious medical condition. Police say this is not a criminal matter at this time .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.02,
+      4.05,
+      4.07,
+      4.04
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.18
+  },
+  {
+    "id": "cnn_008",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Once a super typhoon, Maysak is now a tropical storm with 70 mph winds . It could still cause flooding, landslides and other problems in the Philippines .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.07,
+      4.05,
+      4.06
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.21
+  },
+  {
+    "id": "cnn_009",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Bob Barker returned to host \"The Price Is Right\" on Wednesday . Barker, 91, had retired as host in 2007 .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.04,
+      4.05,
+      4.05,
+      4.06
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.2
+  },
+  {
+    "id": "cnn_010",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul . He's been charged with terror offenses allegedly committed since the start of November .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.12,
+      4.07,
+      4.08
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.3
+  },
+  {
+    "id": "cnn_011",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "\"Furious 7\" pays tribute to star Paul Walker, who died during filming . Vin Diesel: \"This movie is more than a movie\" \"Furious 7\" opens Friday .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.02,
+      4.03,
+      4.05,
+      4.07
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.17
+  },
+  {
+    "id": "cnn_012",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Museum: Anne Frank died earlier than previously believed . Researchers re-examined archives and testimonies of survivors . Anne and older sister Margot Frank are believed to have died in February 1945 .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.02,
+      4.05,
+      4.07,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.19
+  },
+  {
+    "id": "cnn_013",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 . Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet \"won\" in America .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.06,
+      4.03,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.17
+  },
+  {
+    "id": "cnn_014",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Singing the national anthem is a risky proposition . Whitney Houston nailed it; Roseanne Barr destroyed it .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.08,
+      4.03
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.19
+  },
+  {
+    "id": "cnn_015",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition . Walmart and other high-profile businesses are showing their support for gay and lesbian rights . Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.02,
+      4.07,
+      4.04,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.18
+  },
+  {
+    "id": "cnn_016",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading . Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.07,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.2
+  },
+  {
+    "id": "cnn_017",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Marseille prosecutor says \"so far no videos were used in the crash investigation\" despite media reports . Journalists at Bild and Paris Match are \"very confident\" the video clip is real, an editor says . Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.05,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.18
+  },
+  {
+    "id": "cnn_018",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 . His TV show, \"Hour of Power,\" was enormously popular in the 1970s and 1980s .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.05,
+      4.07,
+      4.03
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.18
+  },
+  {
+    "id": "cnn_019",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "sr_3",
+    "reference": "Former GOP representative compares President Obama to Andreas Lubitz . Bachmann said with possible Iran deal, Obama will fly \"entire nation into the rocks\" Reaction on social media? She was blasted by Facebook commenters .",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "times": [
+      2.03,
+      4.1,
+      4.05,
+      4.05
+    ],
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "time": 14.23
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice.",
+    "outputs": [
+      "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice."
+    ],
+    "feedbacks": [],
+    "time": 8.65
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car, seemingly subjected to a beating, and buried. Despite suffering severe injuries like a dislocated jaw and sinus damage, the dog has been receiving care at a veterinary hospital. Local resident Sara Mellado is fostering Theia and has launched a fundraiser to help cover the extensive medical procedures required for her recovery.",
+    "outputs": [
+      "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car, seemingly subjected to a beating, and buried. Despite suffering severe injuries like a dislocated jaw and sinus damage, the dog has been receiving care at a veterinary hospital. Local resident Sara Mellado is fostering Theia and has launched a fundraiser to help cover the extensive medical procedures required for her recovery."
+    ],
+    "feedbacks": [],
+    "time": 8.75
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in U.S. negotiations that could lift sanctions against Iran. Beyond his diplomatic role, the article reveals less-known facts, including an exchange on Twitter with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, succeeding the previous administration.",
+    "outputs": [
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in U.S. negotiations that could lift sanctions against Iran. Beyond his diplomatic role, the article reveals less-known facts, including an exchange on Twitter with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, succeeding the previous administration."
+    ],
+    "feedbacks": [],
+    "time": 7.87
+  },
+  {
+    "id": "cnn_003",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "17 Americans were exposed to the Ebola virus while in Sierra Leone in March . Another person was diagnosed with the disease and taken to hospital in Maryland . National Institutes of Health says the patient is in fair condition after weeks of treatment .",
+    "output": "Five American clinicians who were monitored in Omaha, Nebraska, after being exposed to Ebola in West Africa have been released. These individuals, who are part of the aid group Partners in Health, were exposed after coming into contact with a colleague diagnosed with the disease. Separately, the CDC anticipates releasing the last of 17 monitored patients by Thursday.",
+    "outputs": [
+      "Five American clinicians who were monitored in Omaha, Nebraska, after being exposed to Ebola in West Africa have been released. These individuals, who are part of the aid group Partners in Health, were exposed after coming into contact with a colleague diagnosed with the disease. Separately, the CDC anticipates releasing the last of 17 monitored patients by Thursday."
+    ],
+    "feedbacks": [],
+    "time": 7.69
+  },
+  {
+    "id": "cnn_004",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Student is no longer on Duke University campus and will face disciplinary review . School officials identified student during investigation and the person admitted to hanging the noose, Duke says . The noose, made of rope, was discovered on campus about 2 a.m.",
+    "output": "A Duke student admitted to hanging a noose from a tree near the student union, leading to a student conduct review. Following the discovery, students and faculty gathered to protest, with the university president addressing the crowd. This incident is noted as part of a pattern of recent racist events affecting college campuses.",
+    "outputs": [
+      "A Duke student admitted to hanging a noose from a tree near the student union, leading to a student conduct review. Following the discovery, students and faculty gathered to protest, with the university president addressing the crowd. This incident is noted as part of a pattern of recent racist events affecting college campuses."
+    ],
+    "feedbacks": [],
+    "time": 7.02
+  },
+  {
+    "id": "cnn_005",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "College-bound basketball star asks girl with Down syndrome to high school prom . Pictures of the two during the \"prom-posal\" have gone viral .",
+    "output": "A star basketball recruit named Trey Moses proposed to Ellie Meredith, a high school freshman with Down syndrome, as his prom date. Despite their differences, Trey chose Ellie because he finds her engaging and easy to talk to. The couple's sweet gesture and the positive impact of the Best Buddies program, which fosters friendships for students with developmental disabilities, have garnered attention online.",
+    "outputs": [
+      "A star basketball recruit named Trey Moses proposed to Ellie Meredith, a high school freshman with Down syndrome, as his prom date. Despite their differences, Trey chose Ellie because he finds her engaging and easy to talk to. The couple's sweet gesture and the positive impact of the Best Buddies program, which fosters friendships for students with developmental disabilities, have garnered attention online."
+    ],
+    "feedbacks": [],
+    "time": 8.1
+  },
+  {
+    "id": "cnn_006",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death . Organization claims that governments around the world are using the threat of terrorism to advance executions . The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% .",
+    "output": "Amnesty International's report alleges that global governments are increasingly threatening or using the death penalty in response to real or perceived security threats, labeling this practice as shameful. While the report cites examples like Pakistan and China using executions against terrorism, it also notes a worldwide decrease of nearly 22% in the number of recorded executions from 2013 to 2014. Overall, Amnesty suggests the long-term trend shows a positive movement towards abolition in many countries.",
+    "outputs": [
+      "Amnesty International's report alleges that global governments are increasingly threatening or using the death penalty in response to real or perceived security threats, labeling this practice as shameful. While the report cites examples like Pakistan and China using executions against terrorism, it also notes a worldwide decrease of nearly 22% in the number of recorded executions from 2013 to 2014. Overall, Amnesty suggests the long-term trend shows a positive movement towards abolition in many countries."
+    ],
+    "feedbacks": [],
+    "time": 9.88
+  },
+  {
+    "id": "cnn_007",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment . In a petition for a restraining order, Getty had written he had a serious medical condition. Police say this is not a criminal matter at this time .",
+    "output": "Andrew Getty, grandson of oil tycoon J. Paul Getty, has died of natural causes, according to the Los Angeles Police Department. Preliminary assessments indicate no foul play, although an autopsy will be conducted. His death has prompted statements from his parents, and reports mention recent health issues and a restraining order filing by Getty.",
+    "outputs": [
+      "Andrew Getty, grandson of oil tycoon J. Paul Getty, has died of natural causes, according to the Los Angeles Police Department. Preliminary assessments indicate no foul play, although an autopsy will be conducted. His death has prompted statements from his parents, and reports mention recent health issues and a restraining order filing by Getty."
+    ],
+    "feedbacks": [],
+    "time": 7.3
+  },
+  {
+    "id": "cnn_008",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Once a super typhoon, Maysak is now a tropical storm with 70 mph winds . It could still cause flooding, landslides and other problems in the Philippines .",
+    "output": "Filipinos are warned to prepare for potential flash floods and landslides due to the approach of Tropical Storm Maysak, which the Philippine weather service calls Chedeng. Although it has weakened from super typhoon status, the storm is still expected to bring significant impacts. Authorities have implemented precautionary measures, including restricting outdoor activities and issuing evacuations, ahead of its anticipated landfall on the southeastern coast of Isabela province on Sunday.",
+    "outputs": [
+      "Filipinos are warned to prepare for potential flash floods and landslides due to the approach of Tropical Storm Maysak, which the Philippine weather service calls Chedeng. Although it has weakened from super typhoon status, the storm is still expected to bring significant impacts. Authorities have implemented precautionary measures, including restricting outdoor activities and issuing evacuations, ahead of its anticipated landfall on the southeastern coast of Isabela province on Sunday."
+    ],
+    "feedbacks": [],
+    "time": 8.66
+  },
+  {
+    "id": "cnn_009",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Bob Barker returned to host \"The Price Is Right\" on Wednesday . Barker, 91, had retired as host in 2007 .",
+    "output": "Bob Barker returned to host \"The Price Is Right\" for the first time in eight years on April 1st. The 91-year-old legend successfully managed the initial price-guessing game before handing hosting duties back to Drew Carey. His return marked a notable event for the popular television game show.",
+    "outputs": [
+      "Bob Barker returned to host \"The Price Is Right\" for the first time in eight years on April 1st. The 91-year-old legend successfully managed the initial price-guessing game before handing hosting duties back to Drew Carey. His return marked a notable event for the popular television game show."
+    ],
+    "feedbacks": [],
+    "time": 6.92
+  },
+  {
+    "id": "cnn_010",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul . He's been charged with terror offenses allegedly committed since the start of November .",
+    "output": "A 19-year-old UK national, Yahya Rashid, was charged with terror offenses after being arrested at Luton airport upon his return from Turkey. He faces charges related to preparing for and intending to assist in acts of terrorism during the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday.",
+    "outputs": [
+      "A 19-year-old UK national, Yahya Rashid, was charged with terror offenses after being arrested at Luton airport upon his return from Turkey. He faces charges related to preparing for and intending to assist in acts of terrorism during the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday."
+    ],
+    "feedbacks": [],
+    "time": 7.61
+  },
+  {
+    "id": "cnn_011",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "\"Furious 7\" pays tribute to star Paul Walker, who died during filming . Vin Diesel: \"This movie is more than a movie\" \"Furious 7\" opens Friday .",
+    "output": "Paul Walker's death in a car crash in 2013 occurred shortly before the release of \"Furious 7,\" a film where he was a major star. Following his passing, the movie was completed using special effects and body doubles, with the narrative paying tribute to his character. The film's premiere was marked by emotional tributes from his co-stars, acknowledging the impact of his life and loss.",
+    "outputs": [
+      "Paul Walker's death in a car crash in 2013 occurred shortly before the release of \"Furious 7,\" a film where he was a major star. Following his passing, the movie was completed using special effects and body doubles, with the narrative paying tribute to his character. The film's premiere was marked by emotional tributes from his co-stars, acknowledging the impact of his life and loss."
+    ],
+    "feedbacks": [],
+    "time": 8.84
+  },
+  {
+    "id": "cnn_012",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Museum: Anne Frank died earlier than previously believed . Researchers re-examined archives and testimonies of survivors . Anne and older sister Margot Frank are believed to have died in February 1945 .",
+    "output": "New research analyzing various archives and survivor testimonies suggests that Anne and Margot Frank died at Bergen-Belsen at least a month earlier than previously believed, contradicting earlier findings by Dutch authorities. The investigation re-examined records following the liberation of the camp in March 1945. These findings revise the timeline of the young diarist's tragic end during the Holocaust.",
+    "outputs": [
+      "New research analyzing various archives and survivor testimonies suggests that Anne and Margot Frank died at Bergen-Belsen at least a month earlier than previously believed, contradicting earlier findings by Dutch authorities. The investigation re-examined records following the liberation of the camp in March 1945. These findings revise the timeline of the young diarist's tragic end during the Holocaust."
+    ],
+    "feedbacks": [],
+    "time": 8.13
+  },
+  {
+    "id": "cnn_013",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 . Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet \"won\" in America .",
+    "output": "Mike Pence is facing criticism for signing a religious freedom law that could lead to discrimination against gay and lesbian people, despite opposition from state business leaders. This controversial action is suggested to be a strategic move by Pence to solidify his standing with the powerful, ultra-conservative wing of the Republican party, which favors him as a 2016 candidate. Ultimately, this public debate is forcing the entire Republican field further to the right ideologically.",
+    "outputs": [
+      "Mike Pence is facing criticism for signing a religious freedom law that could lead to discrimination against gay and lesbian people, despite opposition from state business leaders. This controversial action is suggested to be a strategic move by Pence to solidify his standing with the powerful, ultra-conservative wing of the Republican party, which favors him as a 2016 candidate. Ultimately, this public debate is forcing the entire Republican field further to the right ideologically."
+    ],
+    "feedbacks": [],
+    "time": 8.99
+  },
+  {
+    "id": "cnn_014",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Singing the national anthem is a risky proposition . Whitney Houston nailed it; Roseanne Barr destroyed it .",
+    "output": "Performing the American national anthem can lead to either national acclaim or public criticism, as evidenced by performances from figures like Vince Neil, Whitney Houston, and Roseanne Barr. Past renditions by artists such as Jimi Hendrix and Michael Bolton show the wide spectrum of public reaction, ranging from patriotic praise to notable booing or controversial interpretations. Ultimately, the article suggests that singing the national anthem carries significant risk of public judgment, regardless of the performer's fame.",
+    "outputs": [
+      "Performing the American national anthem can lead to either national acclaim or public criticism, as evidenced by performances from figures like Vince Neil, Whitney Houston, and Roseanne Barr. Past renditions by artists such as Jimi Hendrix and Michael Bolton show the wide spectrum of public reaction, ranging from patriotic praise to notable booing or controversial interpretations. Ultimately, the article suggests that singing the national anthem carries significant risk of public judgment, regardless of the performer's fame."
+    ],
+    "feedbacks": [],
+    "time": 9.14
+  },
+  {
+    "id": "cnn_015",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition . Walmart and other high-profile businesses are showing their support for gay and lesbian rights . Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies .",
+    "output": "Major figures, including Apple CEO Tim Cook and the NCAA, criticized proposed religious freedom laws for potentially leading to discrimination against gay and lesbian individuals. Walmart's vocal opposition to such a law in Arkansas, combined with its commitment to raising worker pay, is being viewed as an indicator of shifting public support for gay rights. Consequently, some Republican leaders are urging the party to adapt its platform to better address middle-class concerns and prohibit discrimination.",
+    "outputs": [
+      "Major figures, including Apple CEO Tim Cook and the NCAA, criticized proposed religious freedom laws for potentially leading to discrimination against gay and lesbian individuals. Walmart's vocal opposition to such a law in Arkansas, combined with its commitment to raising worker pay, is being viewed as an indicator of shifting public support for gay rights. Consequently, some Republican leaders are urging the party to adapt its platform to better address middle-class concerns and prohibit discrimination."
+    ],
+    "feedbacks": [],
+    "time": 9.18
+  },
+  {
+    "id": "cnn_016",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading . Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history .",
+    "output": "In 2014, authorities in China's Xinjiang region held a public sentencing of 55 individuals, including three sentenced to death, as part of a \"Strike Hard\" campaign against alleged unrest. This incident highlights a global trend where governments are increasingly using the death penalty in reactions to crime and terrorism. Amnesty International's review notes that several countries have recently resumed or expanded capital punishment in response to security concerns.",
+    "outputs": [
+      "In 2014, authorities in China's Xinjiang region held a public sentencing of 55 individuals, including three sentenced to death, as part of a \"Strike Hard\" campaign against alleged unrest. This incident highlights a global trend where governments are increasingly using the death penalty in reactions to crime and terrorism. Amnesty International's review notes that several countries have recently resumed or expanded capital punishment in response to security concerns."
+    ],
+    "feedbacks": [],
+    "time": 8.88
+  },
+  {
+    "id": "cnn_017",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Marseille prosecutor says \"so far no videos were used in the crash investigation\" despite media reports . Journalists at Bild and Paris Match are \"very confident\" the video clip is real, an editor says . Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says .",
+    "output": "The French prosecutor investigating the Germanwings Flight 9525 crash stated that no onboard video footage has been used in the investigation and urged anyone with such material to provide it to authorities. These comments contradict reports from *Bild* and *Paris Match* magazines, which claimed to have viewed a disturbing cell phone video from the crash site. Officials from the investigation agency dismissed these media reports as \"completely wrong\" and \"unwarranted.\"",
+    "outputs": [
+      "The French prosecutor investigating the Germanwings Flight 9525 crash stated that no onboard video footage has been used in the investigation and urged anyone with such material to provide it to authorities. These comments contradict reports from *Bild* and *Paris Match* magazines, which claimed to have viewed a disturbing cell phone video from the crash site. Officials from the investigation agency dismissed these media reports as \"completely wrong\" and \"unwarranted.\""
+    ],
+    "feedbacks": [],
+    "time": 9.14
+  },
+  {
+    "id": "cnn_018",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 . His TV show, \"Hour of Power,\" was enormously popular in the 1970s and 1980s .",
+    "output": "Rev. Robert H. Schuller, the founder of the \"Hour of Power\" ministry and Crystal Cathedral megachurch, passed away at the age of 88. Schuller was a prominent televangelist known for his optimistic and gentle message of Christianity, which attracted many seekers. Throughout his life, he built a massive following despite facing criticism from some within the religious community.",
+    "outputs": [
+      "Rev. Robert H. Schuller, the founder of the \"Hour of Power\" ministry and Crystal Cathedral megachurch, passed away at the age of 88. Schuller was a prominent televangelist known for his optimistic and gentle message of Christianity, which attracted many seekers. Throughout his life, he built a massive following despite facing criticism from some within the religious community."
+    ],
+    "feedbacks": [],
+    "time": 8.31
+  },
+  {
+    "id": "cnn_019",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "zero_shot",
+    "reference": "Former GOP representative compares President Obama to Andreas Lubitz . Bachmann said with possible Iran deal, Obama will fly \"entire nation into the rocks\" Reaction on social media? She was blasted by Facebook commenters .",
+    "output": "Michele Bachmann drew a comparison between President Obama's Iran deal and the deliberate crashing of a Germanwings flight, likening Obama's actions to the actions of the co-pilot. This highly inflammatory comparison drew widespread condemnation from the public on social media. The article notes that the controversy surrounds Bachmann's criticism of the Obama administration's nuclear negotiations with Iran.",
+    "outputs": [
+      "Michele Bachmann drew a comparison between President Obama's Iran deal and the deliberate crashing of a Germanwings flight, likening Obama's actions to the actions of the co-pilot. This highly inflammatory comparison drew widespread condemnation from the public on social media. The article notes that the controversy surrounds Bachmann's criticism of the Obama administration's nuclear negotiations with Iran."
+    ],
+    "feedbacks": [],
+    "time": 8.1
+  }
+]

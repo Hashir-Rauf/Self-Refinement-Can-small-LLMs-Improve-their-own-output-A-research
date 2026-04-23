@@ -1,0 +1,71 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_2",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "outputs": [
+      "The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This accession, which followed the signing of the Rome Statute, allows for potential investigations into war crimes. While Israel and the United States opposed the move, Palestinian officials hailed it as a step toward ending impunity and achieving justice.",
+      "The Palestinian Authority officially joined the International Criminal Court (ICC) on Wednesday, formalizing its accession with a ceremony at The Hague, Netherlands. This move grants the ICC jurisdiction over alleged crimes in Palestinian territories, specifically those committed since June 13, 2014. Palestinian officials view this as a major step toward achieving justice and ending impunity.",
+      "The Palestinian Authority became the 123rd member of the ICC on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories since June 13, 2014. During the ceremony in The Hague, Foreign Minister Riad al-Malki hailed the move as a step toward justice, following the ICC's earlier preliminary examination of the situation."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Missing the specific date range for the alleged crimes accepted by the Palestinians (should include \"since June 13, 2014\").\n2. Omitting the key detail that the accession was marked by a ceremony at The Hague, in the Netherlands.",
+      "Problems (be concrete, not generic):\n1. Missing the specific name of the Palestinian official who spoke at the ceremony (Riad al-Malki).\n2. Omitting the mention of the ICC opening a preliminary examination into the situation in Palestinian territories later that month."
+    ],
+    "times": [
+      8.57,
+      16.16,
+      15.97
+    ],
+    "output": "The Palestinian Authority became the 123rd member of the ICC on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories since June 13, 2014. During the ceremony in The Hague, Foreign Minister Riad al-Malki hailed the move as a step toward justice, following the ICC's earlier preliminary examination of the situation.",
+    "time": 40.7
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_2",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "outputs": [
+      "A stray dog in Washington State, named Theia, survived multiple near-death experiences, including being hit by a car, seemingly subjected to a beating, and buried. Despite suffering severe injuries like a dislocated jaw and sinus damage, the dog has been receiving care at a veterinary hospital. Local resident Sara Mellado is fostering Theia and has launched a fundraiser to help cover the extensive medical procedures required for her recovery.",
+      "A stray dog in Washington State, named Theia, survived multiple traumatic incidents, including being hit by a car, attacked, and buried. She was found near a farm in Moses Lake, Washington, by a worker who brought her to a vet, where she was later taken in by resident Sara Mellado. Due to severe injuries like a dislocated jaw and sinus damage, Mellado has launched a fundraiser to cover the extensive medical care Theia requires.",
+      "A stray dog named Theia in Washington State survived severe trauma, including being hit by a car, attacked, and buried, sustaining injuries such as a dislocated jaw, leg injuries, and a caved-in sinus cavity. After being found and taken in by Sara Mellado, the dog requires extensive surgery. While the Good Samaritan Fund contributed to her care, Mellado has launched a fundraiser to cover the remaining costs for her necessary medical procedures."
+    ],
+    "feedbacks": [
+      "1. Missing the specific location where the dog was found: The summary omits that the dog was found near a farm in Moses Lake, Washington.\n2. Missing the detail about the initial care provider: The summary fails to mention that the dog was initially found by a worker who took her to a vet for help before Sara Mellado took over care.",
+      "1. Missing the specific details of the injuries sustained (e.g., 'Missing the detail that the dog also suffered leg injuries').\n2. Omitting the fact that the Good Samaritan Fund committee already contributed money towards the treatment costs (e.g., 'Omitting the mention of the Good Samaritan Fund contribution')."
+    ],
+    "times": [
+      9.58,
+      18.43,
+      17.24
+    ],
+    "output": "A stray dog named Theia in Washington State survived severe trauma, including being hit by a car, attacked, and buried, sustaining injuries such as a dislocated jaw, leg injuries, and a caved-in sinus cavity. After being found and taken in by Sara Mellado, the dog requires extensive surgery. While the Good Samaritan Fund contributed to her care, Mellado has launched a fundraiser to cover the remaining costs for her necessary medical procedures.",
+    "time": 45.25
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "sr_2",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "outputs": [
+      "Mohammad Javad Zarif is the Iranian foreign minister, who was instrumental in U.S. negotiations that could lift sanctions against Iran. Beyond his diplomatic role, the article reveals less-known facts, including an exchange on Twitter with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, succeeding the previous administration.",
+      "Mohammad Javad Zarif is the Iranian foreign minister, who played a role in U.S. negotiations potentially leading to the lifting of sanctions against Iran. The article also details less-known facts, such as a Twitter exchange with Christine Pelosi over Holocaust denial. Zarif was nominated to his post by Hassan Rouhani, a decision influenced by the political and security conditions of the time.",
+      "Mohammad Javad Zarif is the Iranian foreign minister who was involved in U.S. negotiations potentially leading to the removal of sanctions against Iran. The article also details less-known facts, including a Twitter exchange with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Ahmadinejad's successor, Hassan Rouhami, a move the foreign ministry noted was due to the political and security conditions of the time."
+    ],
+    "feedbacks": [
+      "Problems (be concrete, not generic):\n1. Incorrect successor: The summary states Zarif was nominated by Hassan Rouhani, but the article specifies he was nominated by Ahmadinejad's successor.\n2. Missing detail regarding the nomination context: The summary omits the crucial detail that Zarif's nomination was related to the political and security conditions of the time.",
+      "Problems (be concrete, not generic):\n1. Wrong nominator: The summary states Zarif was nominated by \"Hassan Rouhani,\" but the article specifies he was nominated by \"Ahmadinejad's successor, Hassan Rouhami.\"\n2. Missing detail regarding the nomination context: The summary mentions the nomination was influenced by \"political and security conditions,\" but it omits the crucial detail that the article notes the foreign ministry's explanation for this was \"perhaps defensively.\""
+    ],
+    "times": [
+      7.88,
+      17.87,
+      19.48
+    ],
+    "output": "Mohammad Javad Zarif is the Iranian foreign minister who was involved in U.S. negotiations potentially leading to the removal of sanctions against Iran. The article also details less-known facts, including a Twitter exchange with Christine Pelosi regarding Holocaust denial. Zarif was nominated to his post by Ahmadinejad's successor, Hassan Rouhami, a move the foreign ministry noted was due to the political and security conditions of the time.",
+    "time": 45.23
+  }
+]

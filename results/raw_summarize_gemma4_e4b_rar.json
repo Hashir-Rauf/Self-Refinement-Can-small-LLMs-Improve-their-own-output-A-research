@@ -1,0 +1,262 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This formal accession, which followed the signing of the Rome Statute, was hailed by Palestinian officials like Foreign Minister Riad al-Malki as a step toward ending impunity. While the move faces opposition from non-member states like Israel and the US, it marks a significant legal development for potential war crimes investigations.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The Palestinian Authority officially became the 123rd member of the International Criminal Court (ICC) on Wednesday, granting the court jurisdiction over alleged crimes in Palestinian territories. This formal accession, which followed the signing of the Rome Statute, was hailed by Palestinian officials like Foreign Minister Riad al-Malki as a step toward ending impunity. While the move faces opposition from non-member states like Israel and the US, it marks a significant legal development for potential war crimes investigations."
+    ],
+    "feedbacks": [],
+    "time": 11.95
+  },
+  {
+    "id": "cnn_001",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** A stray dog named Theia in Washington State miraculously survived multiple traumatic events, including being hit by a car, struck with a hammer, and buried. She was found by a worker and subsequently cared for by resident Sara Mellado, who is fostering her despite her severe injuries, including jaw and sinus damage. Due to the extensive required medical procedures, Mellado has started a fundraiser, which has already surpassed a $10,000 goal to help ensure Theia receives the necessary care.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** A stray dog named Theia in Washington State miraculously survived multiple traumatic events, including being hit by a car, struck with a hammer, and buried. She was found by a worker and subsequently cared for by resident Sara Mellado, who is fostering her despite her severe injuries, including jaw and sinus damage. Due to the extensive required medical procedures, Mellado has started a fundraiser, which has already surpassed a $10,000 goal to help ensure Theia receives the necessary care."
+    ],
+    "feedbacks": [],
+    "time": 12.05
+  },
+  {
+    "id": "cnn_002",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The article introduces Mohammad Javad Zarif, the Iranian foreign minister, highlighting his recent positive reception following discussions regarding potential sanctions relief. While acknowledging his diplomatic success in international relations, the piece pivots to reveal less-known facts about him, including a notable and tense Twitter exchange with Christine Pelosi concerning Holocaust denial.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The article introduces Mohammad Javad Zarif, the Iranian foreign minister, highlighting his recent positive reception following discussions regarding potential sanctions relief. While acknowledging his diplomatic success in international relations, the piece pivots to reveal less-known facts about him, including a notable and tense Twitter exchange with Christine Pelosi concerning Holocaust denial."
+    ],
+    "feedbacks": [],
+    "time": 9.44
+  },
+  {
+    "id": "cnn_003",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "17 Americans were exposed to the Ebola virus while in Sierra Leone in March . Another person was diagnosed with the disease and taken to hospital in Maryland . National Institutes of Health says the patient is in fair condition after weeks of treatment .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome regarding the Ebola exposure monitoring.\n\n**Summary:** Five American clinicians, who were monitored at a Nebraska hospital after being exposed to Ebola in West Africa, have been released. These individuals were exposed in Sierra Leone after a colleague tested positive for the virus. The group was monitored by Nebraska Medicine, and the CDC anticipates the release of the last of 17 monitored patients by Thursday.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome regarding the Ebola exposure monitoring.\n\n**Summary:** Five American clinicians, who were monitored at a Nebraska hospital after being exposed to Ebola in West Africa, have been released. These individuals were exposed in Sierra Leone after a colleague tested positive for the virus. The group was monitored by Nebraska Medicine, and the CDC anticipates the release of the last of 17 monitored patients by Thursday."
+    ],
+    "feedbacks": [],
+    "time": 9.98
+  },
+  {
+    "id": "cnn_004",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Student is no longer on Duke University campus and will face disciplinary review . School officials identified student during investigation and the person admitted to hanging the noose, Duke says . The noose, made of rope, was discovered on campus about 2 a.m.",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** A Duke University student admitted to hanging a noose from a tree near the student union, an incident that prompted an ongoing investigation by campus police and criminal authorities. Following the discovery, students and faculty gathered to protest the event, with the university administration addressing the community. The incident is noted as part of a series of recent racist events affecting college campuses.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** A Duke University student admitted to hanging a noose from a tree near the student union, an incident that prompted an ongoing investigation by campus police and criminal authorities. Following the discovery, students and faculty gathered to protest the event, with the university administration addressing the community. The incident is noted as part of a series of recent racist events affecting college campuses."
+    ],
+    "feedbacks": [],
+    "time": 9.91
+  },
+  {
+    "id": "cnn_005",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "College-bound basketball star asks girl with Down syndrome to high school prom . Pictures of the two during the \"prom-posal\" have gone viral .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Star basketball recruit Trey Moses surprised his classmates by asking Ellie Meredith, a high school freshman with Down syndrome, to be his prom date. Instead of his usual date, Trey proposed using a creative \"prom-posal\" involving flowers and a Taylor Swift reference in the school gym. The gesture was well-received, bringing joy to Ellie and her supportive family, and highlighted the positive impact of the school's Best Buddies program.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Star basketball recruit Trey Moses surprised his classmates by asking Ellie Meredith, a high school freshman with Down syndrome, to be his prom date. Instead of his usual date, Trey proposed using a creative \"prom-posal\" involving flowers and a Taylor Swift reference in the school gym. The gesture was well-received, bringing joy to Ellie and her supportive family, and highlighted the positive impact of the school's Best Buddies program."
+    ],
+    "feedbacks": [],
+    "time": 11.16
+  },
+  {
+    "id": "cnn_006",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Amnesty's annual death penalty report catalogs encouraging signs, but setbacks in numbers of those sentenced to death . Organization claims that governments around the world are using the threat of terrorism to advance executions . The number of executions worldwide has gone down by almost 22% compared with 2013, but death sentences up by 28% .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Amnesty International's annual report alleges that global governments are increasingly using the threat of terrorism to justify executions. The report cites examples like Pakistan's resumption of executions and China's use of the death penalty in Xinjiang. While the report notes a positive overall trend with a 22% decrease in worldwide executions in 2014, it warns against the continued use of capital punishment for security concerns.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Amnesty International's annual report alleges that global governments are increasingly using the threat of terrorism to justify executions. The report cites examples like Pakistan's resumption of executions and China's use of the death penalty in Xinjiang. While the report notes a positive overall trend with a 22% decrease in worldwide executions in 2014, it warns against the continued use of capital punishment for security concerns."
+    ],
+    "feedbacks": [],
+    "time": 10.82
+  },
+  {
+    "id": "cnn_007",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Andrew Getty's death appears to be from natural causes, police say, citing coroner's early assessment . In a petition for a restraining order, Getty had written he had a serious medical condition. Police say this is not a criminal matter at this time .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Andrew Getty, grandson of oil tycoon J. Paul Getty, has reportedly died of natural causes at age 47, according to the LAPD. Authorities have stated there is no evidence of foul play, though medication was recovered from his home. The article also provides background on the Getty family's vast oil fortune and mentions that Andrew Getty had recently been involved in legal proceedings regarding a restraining order.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Andrew Getty, grandson of oil tycoon J. Paul Getty, has reportedly died of natural causes at age 47, according to the LAPD. Authorities have stated there is no evidence of foul play, though medication was recovered from his home. The article also provides background on the Getty family's vast oil fortune and mentions that Andrew Getty had recently been involved in legal proceedings regarding a restraining order."
+    ],
+    "feedbacks": [],
+    "time": 10.72
+  },
+  {
+    "id": "cnn_008",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Once a super typhoon, Maysak is now a tropical storm with 70 mph winds . It could still cause flooding, landslides and other problems in the Philippines .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and anticipated outcome regarding the approaching tropical storm.\n\n**Summary:** Tropical storm Maysak (locally named Chedeng) is approaching the Philippines, prompting authorities to issue warnings about flash floods and landslides, leading to preemptive evacuations and bans on outdoor activities. Officials, including PAGASA meteorologists and local governors, are advising residents to take extreme caution due to the storm's potential impact. The storm is expected to make landfall on the southeastern coast of Isabela province on Sunday morning and leave the Philippines by Monday.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and anticipated outcome regarding the approaching tropical storm.\n\n**Summary:** Tropical storm Maysak (locally named Chedeng) is approaching the Philippines, prompting authorities to issue warnings about flash floods and landslides, leading to preemptive evacuations and bans on outdoor activities. Officials, including PAGASA meteorologists and local governors, are advising residents to take extreme caution due to the storm's potential impact. The storm is expected to make landfall on the southeastern coast of Isabela province on Sunday morning and leave the Philippines by Monday."
+    ],
+    "feedbacks": [],
+    "time": 11.85
+  },
+  {
+    "id": "cnn_009",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Bob Barker returned to host \"The Price Is Right\" on Wednesday . Barker, 91, had retired as host in 2007 .",
+    "output": "**Summary:**\n\nBob Barker made a highly anticipated return to hosting \"The Price Is Right\" on April 1st, appearing for the first time in eight years. At 91, the veteran host successfully managed the initial \"Lucky Seven\" game before passing the hosting duties back to Drew Carey. His comeback was noted by the fact that he appeared spry and handled the proceedings without missing a beat.",
+    "outputs": [
+      "**Summary:**\n\nBob Barker made a highly anticipated return to hosting \"The Price Is Right\" on April 1st, appearing for the first time in eight years. At 91, the veteran host successfully managed the initial \"Lucky Seven\" game before passing the hosting duties back to Drew Carey. His comeback was noted by the fact that he appeared spry and handled the proceedings without missing a beat."
+    ],
+    "feedbacks": [],
+    "time": 8.44
+  },
+  {
+    "id": "cnn_010",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "London's Metropolitan Police say the man was arrested at Luton airport after landing on a flight from Istanbul . He's been charged with terror offenses allegedly committed since the start of November .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nA 19-year-old UK national named Yahya Rashid was charged with terrorism offenses after being arrested at Luton airport upon his return to Britain from Turkey. The Metropolitan Police charged him with preparing for and intending to assist in acts of terrorism relating to the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nA 19-year-old UK national named Yahya Rashid was charged with terrorism offenses after being arrested at Luton airport upon his return to Britain from Turkey. The Metropolitan Police charged him with preparing for and intending to assist in acts of terrorism relating to the period between November 1 and March 31. Rashid is scheduled to appear in Westminster Magistrates' Court on Wednesday."
+    ],
+    "feedbacks": [],
+    "time": 10.14
+  },
+  {
+    "id": "cnn_011",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "\"Furious 7\" pays tribute to star Paul Walker, who died during filming . Vin Diesel: \"This movie is more than a movie\" \"Furious 7\" opens Friday .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nThis article discusses the passing of actor Paul Walker in 2013 and how his death impacted the filming of \"Furious 7.\" The movie was completed using special effects and body doubles, allowing fans to see a tribute to Walker's character. The film's premiere featured emotional tributes, including a speech from co-star Vin Diesel, marking the conclusion of the franchise in his honor.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nThis article discusses the passing of actor Paul Walker in 2013 and how his death impacted the filming of \"Furious 7.\" The movie was completed using special effects and body doubles, allowing fans to see a tribute to Walker's character. The film's premiere featured emotional tributes, including a speech from co-star Vin Diesel, marking the conclusion of the franchise in his honor."
+    ],
+    "feedbacks": [],
+    "time": 10.93
+  },
+  {
+    "id": "cnn_012",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Museum: Anne Frank died earlier than previously believed . Researchers re-examined archives and testimonies of survivors . Anne and older sister Margot Frank are believed to have died in February 1945 .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** New research, utilizing re-examined archives and survivor testimonies, has revised the timeline of Anne and Margot Frank's deaths. The findings indicate that the diarist and her sister likely perished at least a month earlier than previously believed, contradicting the date previously established by Dutch authorities. This updated research suggests the sisters succumbed to the harsh conditions at the Bergen-Belsen concentration camp before the camp's liberation in March 1945.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** New research, utilizing re-examined archives and survivor testimonies, has revised the timeline of Anne and Margot Frank's deaths. The findings indicate that the diarist and her sister likely perished at least a month earlier than previously believed, contradicting the date previously established by Dutch authorities. This updated research suggests the sisters succumbed to the harsh conditions at the Bergen-Belsen concentration camp before the camp's liberation in March 1945."
+    ],
+    "feedbacks": [],
+    "time": 11.32
+  },
+  {
+    "id": "cnn_013",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "LZ: Indiana law pushing back LGBT rights, and other states' anti-LGBT moves, bow to far right wing that GOP candidates need for 2016 . Cruz, Huckabee, Jindal, Carson, Walker are reviving culture wars, he says.  Equality for LGBT has not yet \"won\" in America .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and the underlying political implication of the article.\n\n**Summary:** Mike Pence recently sparked controversy by signing a religious freedom law in Indiana that critics argue could lead to discrimination against gay and lesbian individuals, despite opposition from local business leaders. The article suggests this controversial action was a calculated move by Pence to solidify his credentials with the powerful, conservative wing of the Republican party for a potential 2016 presidential run. Ultimately, this debate is forcing the entire Republican party platform further to the right.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and the underlying political implication of the article.\n\n**Summary:** Mike Pence recently sparked controversy by signing a religious freedom law in Indiana that critics argue could lead to discrimination against gay and lesbian individuals, despite opposition from local business leaders. The article suggests this controversial action was a calculated move by Pence to solidify his credentials with the powerful, conservative wing of the Republican party for a potential 2016 presidential run. Ultimately, this debate is forcing the entire Republican party platform further to the right."
+    ],
+    "feedbacks": [],
+    "time": 11.56
+  },
+  {
+    "id": "cnn_014",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Singing the national anthem is a risky proposition . Whitney Houston nailed it; Roseanne Barr destroyed it .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The article discusses the high stakes and varied reception of famous figures performing the American national anthem. It cites examples ranging from Vince Neil's questionable performance to past performances by Whitney Houston, Roseanne Barr, Jimi Hendrix, and Michael Bolton, illustrating that the reception can swing from national praise to public criticism. Ultimately, the piece suggests that performing the anthem carries significant risk of being either celebrated or criticized.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** The article discusses the high stakes and varied reception of famous figures performing the American national anthem. It cites examples ranging from Vince Neil's questionable performance to past performances by Whitney Houston, Roseanne Barr, Jimi Hendrix, and Michael Bolton, illustrating that the reception can swing from national praise to public criticism. Ultimately, the piece suggests that performing the anthem carries significant risk of being either celebrated or criticized."
+    ],
+    "feedbacks": [],
+    "time": 10.62
+  },
+  {
+    "id": "cnn_015",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "While Republican Gov. Asa Hutchinson was weighing an Arkansas religious freedom bill, Walmart voiced its opposition . Walmart and other high-profile businesses are showing their support for gay and lesbian rights . Their stance puts them in conflict with socially conservative Republicans, traditionally seen as allies .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Walmart's public opposition to religious freedom laws in Arkansas, alongside its commitment to raising worker wages, is positioning the retailer as a bellwether for shifting public opinion. This shift has prompted prominent Republicans, like Tim Pawlenty, to urge the party to align itself more closely with middle-class concerns, such as supporting minimum wage increases and anti-discrimination protections for gay and lesbian individuals. Ultimately, Walmart's stance was successful when Arkansas Governor Asa Hutchinson announced he would veto the controversial legislation.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Walmart's public opposition to religious freedom laws in Arkansas, alongside its commitment to raising worker wages, is positioning the retailer as a bellwether for shifting public opinion. This shift has prompted prominent Republicans, like Tim Pawlenty, to urge the party to align itself more closely with middle-class concerns, such as supporting minimum wage increases and anti-discrimination protections for gay and lesbian individuals. Ultimately, Walmart's stance was successful when Arkansas Governor Asa Hutchinson announced he would veto the controversial legislation."
+    ],
+    "feedbacks": [],
+    "time": 12.33
+  },
+  {
+    "id": "cnn_016",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Amnesty International releases its annual review of the death penalty worldwide; much of it makes for grim reading . Salil Shetty: Countries that use executions to deal with problems are on the wrong side of history .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nThe article details a mass sentencing event in China's Xinjiang region in 2014, where authorities held an open-air trial for numerous people accused of violent attacks, resulting in 55 convictions and three death sentences. This event was part of China's \"Strike Hard\" campaign against unrest, which the article frames as an example of global governments increasingly using the death penalty in reactive, and often flawed, efforts to combat perceived terrorism and crime. The piece notes this worrying global trend, citing examples from Pakistan, Iran, and Iraq, where governments have reinstated or expanded capital punishments.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nThe article details a mass sentencing event in China's Xinjiang region in 2014, where authorities held an open-air trial for numerous people accused of violent attacks, resulting in 55 convictions and three death sentences. This event was part of China's \"Strike Hard\" campaign against unrest, which the article frames as an example of global governments increasingly using the death penalty in reactive, and often flawed, efforts to combat perceived terrorism and crime. The piece notes this worrying global trend, citing examples from Pakistan, Iran, and Iraq, where governments have reinstated or expanded capital punishments."
+    ],
+    "feedbacks": [],
+    "time": 13.68
+  },
+  {
+    "id": "cnn_017",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Marseille prosecutor says \"so far no videos were used in the crash investigation\" despite media reports . Journalists at Bild and Paris Match are \"very confident\" the video clip is real, an editor says . Andreas Lubitz had informed his Lufthansa training school of an episode of severe depression, airline says .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Marseille prosecutor Brice Robin stated that no video footage from Germanwings Flight 9525 was currently being used in the investigation, despite claims from *Bild* and *Paris Match* that such a video was found at the wreckage site. Officials from the BEA and Gendarmerie refuted these reports, labeling the claims as \"completely wrong\" and \"unwarranted.\" The prosecutor urged anyone possessing such footage to immediately submit it to investigators.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Marseille prosecutor Brice Robin stated that no video footage from Germanwings Flight 9525 was currently being used in the investigation, despite claims from *Bild* and *Paris Match* that such a video was found at the wreckage site. Officials from the BEA and Gendarmerie refuted these reports, labeling the claims as \"completely wrong\" and \"unwarranted.\" The prosecutor urged anyone possessing such footage to immediately submit it to investigators."
+    ],
+    "feedbacks": [],
+    "time": 11.48
+  },
+  {
+    "id": "cnn_018",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "The Rev. Robert Schuller, 88, had been diagnosed with esophageal cancer in 2013 . His TV show, \"Hour of Power,\" was enormously popular in the 1970s and 1980s .",
+    "output": "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nThe article reports the passing of the late Rev. Robert H. Schuller, the influential California televangelist and founder of the \"Hour of Power\" ministry, who was 88 years old. Schuller, known for his optimistic and gentle brand of Christianity, built his ministry from humble beginnings to massive success. His death was announced by his family, marking the end of a life dedicated to preaching.",
+    "outputs": [
+      "**Rephrased Task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:**\nThe article reports the passing of the late Rev. Robert H. Schuller, the influential California televangelist and founder of the \"Hour of Power\" ministry, who was 88 years old. Schuller, known for his optimistic and gentle brand of Christianity, built his ministry from humble beginnings to massive success. His death was announced by his family, marking the end of a life dedicated to preaching."
+    ],
+    "feedbacks": [],
+    "time": 11.07
+  },
+  {
+    "id": "cnn_019",
+    "model": "gemma4:e4b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Former GOP representative compares President Obama to Andreas Lubitz . Bachmann said with possible Iran deal, Obama will fly \"entire nation into the rocks\" Reaction on social media? She was blasted by Facebook commenters .",
+    "output": "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Republican Michele Bachmann drew a controversial parallel between President Obama's Iran deal and the deliberate crashing of Germanwings Flight 9525 by co-pilot Andreas Lubitz. In a Facebook comment, she analogized Obama's policy to the fatal act, drawing criticism from other users who deemed the comparison \"moronic and despicable.\" The article details the political dispute surrounding the Iran nuclear deal and Bachmann's inflammatory remarks.",
+    "outputs": [
+      "**Rephrased task:** Write a 2-3 sentence summary capturing the main event, key people involved, and outcome.\n\n**Summary:** Republican Michele Bachmann drew a controversial parallel between President Obama's Iran deal and the deliberate crashing of Germanwings Flight 9525 by co-pilot Andreas Lubitz. In a Facebook comment, she analogized Obama's policy to the fatal act, drawing criticism from other users who deemed the comparison \"moronic and despicable.\" The article details the political dispute surrounding the Iran nuclear deal and Bachmann's inflammatory remarks."
+    ],
+    "feedbacks": [],
+    "time": 11.23
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnn_000",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Membership gives the ICC jurisdiction over alleged crimes committed in Palestinian territories since last June . Israel and the United States opposed the move, which could open the door to war crimes investigations against Israelis .",
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [],
+    "time": 2.01
+  },
+  {
+    "id": "cnn_001",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Theia, a bully breed mix, was apparently hit by a car, whacked with a hammer and buried in a field . \"She's a true miracle dog and she deserves a good life,\" says Sara Mellado, who is looking for a home for Theia .",
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [],
+    "time": 2.05
+  },
+  {
+    "id": "cnn_002",
+    "model": "mistral:7b",
+    "task": "summarize",
+    "condition": "rar",
+    "reference": "Mohammad Javad Zarif has spent more time with John Kerry than any other foreign minister . He once participated in a takeover of the Iranian Consulate in San Francisco . The Iranian foreign minister tweets in English .",
+    "output": "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]",
+    "outputs": [
+      "[ERROR:404 Client Error: Not Found for url: http://localhost:11434/api/chat]"
+    ],
+    "feedbacks": [],
+    "time": 2.05
+  }
+]
